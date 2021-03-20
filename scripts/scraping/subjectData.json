@@ -183,12 +183,14 @@
     "22420": {
         "name": "Accounting Standards and Regulations",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
     "22321": {
         "name": "Cost Management Systems",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
@@ -213,12 +215,14 @@
     "22320": {
         "name": "Accounting for Business Combinations",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
     "79014": {
         "name": "Applied Company Law",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
@@ -234,6 +238,7 @@
     "25557": {
         "name": "Corporate Finance: Theory and Practice",
         "degreeCodes": {
+            "c10026": true,
             "c10219": true,
             "c10278": true,
             "c10384": true
@@ -242,18 +247,21 @@
     "22522": {
         "name": "Assurance Services and Audit",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
     "79017": {
         "name": "Taxation Law",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
     "25410": {
         "name": "Applied Financial Decision Making (Capstone)",
         "degreeCodes": {
+            "c10026": true,
             "c10219": true,
             "c10278": true
         }
@@ -261,18 +269,21 @@
     "22421": {
         "name": "Management Decisions and Control",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
     "22319": {
         "name": "Financial Statement Analysis (Capstone)",
         "degreeCodes": {
+            "c10026": true,
             "c10235": true
         }
     },
     "24202": {
         "name": "Consumer Behaviour",
         "degreeCodes": {
+            "c10026": true,
             "c10384": true,
             "c10385": true,
             "c10440": true
@@ -281,6 +292,7 @@
     "24309": {
         "name": "Marketing Research",
         "degreeCodes": {
+            "c10026": true,
             "c10384": true,
             "c10385": true,
             "c10440": true
@@ -322,11 +334,14 @@
     },
     "24210": {
         "name": "Integrated Marketing Communications",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "24415": {
         "name": "Marketing Planning and Strategy",
         "degreeCodes": {
+            "c10026": true,
             "c10384": true
         }
     },
@@ -357,23 +372,32 @@
     },
     "21513": {
         "name": "Business Ethics and Sustainability",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "21504": {
         "name": "Management Capstone",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "24100": {
         "name": "Applied Project in Marketing (Capstone)",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "23566": {
         "name": "Economics for Business 2",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "23571": {
         "name": "Introductory Econometrics",
         "degreeCodes": {
+            "c10026": true,
             "c10348": true,
             "c09120": true,
             "c10386": true
@@ -382,6 +406,7 @@
     "23568": {
         "name": "Intermediate Macroeconomics",
         "degreeCodes": {
+            "c10026": true,
             "c10348": true,
             "c09120": true,
             "c10386": true
@@ -390,6 +415,7 @@
     "23567": {
         "name": "Intermediate Microeconomics",
         "degreeCodes": {
+            "c10026": true,
             "c10348": true,
             "c09120": true,
             "c10386": true
@@ -397,15 +423,20 @@
     },
     "23580": {
         "name": "The Global Economy (Capstone)",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "21228": {
         "name": "Management Consulting",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c10026": true
+        }
     },
     "21555": {
         "name": "Introduction to Human Resource Management",
         "degreeCodes": {
+            "c10026": true,
             "c10342": true,
             "c09071": true,
             "c09084": true,
@@ -422,6 +453,7 @@
     "21036": {
         "name": "Managing Strategic Performance",
         "degreeCodes": {
+            "c10026": true,
             "c09071": true,
             "c09084": true,
             "c10125": true,
@@ -433,6 +465,7 @@
     "21407": {
         "name": "Strategic Human Resource Management",
         "degreeCodes": {
+            "c10026": true,
             "c09071": true,
             "c09084": true,
             "c10125": true,
@@ -444,6 +477,7 @@
     "21037": {
         "name": "Managing Employee Relations",
         "degreeCodes": {
+            "c10026": true,
             "c09071": true,
             "c09084": true,
             "c10125": true,
@@ -455,6 +489,7 @@
     "21658": {
         "name": "Australian Sport System",
         "degreeCodes": {
+            "c10026": true,
             "c10342": true,
             "c10343": true,
             "c10355": true,
@@ -466,6 +501,7 @@
     "21656": {
         "name": "Sport Marketing and Media",
         "degreeCodes": {
+            "c10026": true,
             "c10342": true,
             "c10343": true,
             "c10355": true,
@@ -476,6 +512,7 @@
     "21646": {
         "name": "Managing Professional Sport",
         "degreeCodes": {
+            "c10026": true,
             "c10342": true,
             "c10343": true,
             "c10355": true,
@@ -486,6 +523,7 @@
     "21657": {
         "name": "International Sport Management",
         "degreeCodes": {
+            "c10026": true,
             "c10342": true,
             "c10343": true,
             "c10355": true,
@@ -496,6 +534,7 @@
     "21505": {
         "name": "Human Resource Management (Capstone)",
         "degreeCodes": {
+            "c10026": true,
             "c09071": true,
             "c09084": true,
             "c10125": true,
@@ -986,140 +1025,187 @@
     "22901": {
         "name": "Accounting Research and Consulting Skills",
         "degreeCodes": {
+            "c09004": true,
             "c09062": true
         }
     },
     "22902": {
         "name": "Financial Reporting, Capital Markets and Disclosure",
         "degreeCodes": {
+            "c09004": true,
             "c09062": true
         }
     },
     "22903": {
         "name": "Contemporary Issues in Management Accounting Research",
         "degreeCodes": {
+            "c09004": true,
             "c09062": true
         }
     },
     "22908": {
         "name": "Current Issues in Corporate Governance and Assurance",
         "degreeCodes": {
+            "c09004": true,
             "c09062": true
         }
     },
     "22906": {
         "name": "Thesis in Accounting\n\u00a0\n2",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "23917": {
         "name": "Advanced Macroeconomics",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "23907": {
         "name": "Advanced Microeconomics",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "23908": {
         "name": "Advanced Econometrics",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "23918": {
         "name": "Economic Policy Seminar",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "23909": {
         "name": "Thesis Proposal in Economics (Honours)",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "23910": {
         "name": "Thesis in Economics (Honours)\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "25924": {
         "name": "Advanced Topics in Finance",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "25934": {
         "name": "Applied Financial Econometrics",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "25935": {
         "name": "Asset Pricing and Risk Management",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "25936": {
         "name": "Funds Management",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "25928": {
         "name": "Thesis Proposal in Finance (Honours)",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "25929": {
         "name": "Thesis in Finance (Honours)\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "21910": {
         "name": "Researching Organisations and Management",
         "degreeCodes": {
+            "c09004": true,
             "c09081": true
         }
     },
     "21908": {
         "name": "Advanced Management and Organisation Research Methods",
         "degreeCodes": {
+            "c09004": true,
             "c09081": true
         }
     },
     "21991": {
         "name": "Quantitative Methods and Analysis for Management",
         "degreeCodes": {
+            "c09004": true,
             "c09081": true
         }
     },
     "21909": {
         "name": "Advanced Organisation and Management Theorising",
         "degreeCodes": {
+            "c09004": true,
             "c09081": true
         }
     },
     "21912": {
         "name": "Thesis Proposal in Management (Honours)",
         "degreeCodes": {
+            "c09004": true,
             "c09081": true
         }
     },
     "21913": {
         "name": "Thesis in Management (Honours)\n\u00a0\n1",
         "degreeCodes": {
+            "c09004": true,
             "c09081": true
         }
     },
     "24903": {
         "name": "Readings for Thesis in Marketing (Honours)",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "24902": {
         "name": "Research Methodology and Data Analysis Techniques",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "24908": {
         "name": "Research Design and Data Collection Techniques",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "24331": {
         "name": "Marketing Analytics and Decisions",
         "degreeCodes": {
+            "c09004": true,
             "c10384": true
         }
     },
     "24770": {
         "name": "Thesis in Marketing (Honours) 1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "24771": {
         "name": "Thesis in Marketing (Honours) 2\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09004": true
+        }
     },
     "22991": {
         "name": "Thesis in Accounting (BAcc)\u00a02",
@@ -6038,31 +6124,31 @@
     "48622": {
         "name": "Mechatronics 1",
         "degreeCodes": {
+            "c09076": true,
             "c09066": true,
             "c09067": true,
             "c10066": true,
-            "c09074": true,
-            "c09076": true
+            "c09074": true
         }
     },
     "48221": {
         "name": "Engineering Computations",
         "degreeCodes": {
+            "c09076": true,
             "c09066": true,
             "c09067": true,
-            "c10066": true,
-            "c09076": true
+            "c10066": true
         }
     },
     "48250": {
         "name": "Engineering Economics and Finance",
         "degreeCodes": {
+            "c09076": true,
             "c09066": true,
             "c09067": true,
             "c10066": true,
             "c09072": true,
             "c09074": true,
-            "c09076": true,
             "c09087": true,
             "c09123": true,
             "c09124": true,
@@ -6102,10 +6188,10 @@
     "41028": {
         "name": "Engineering Work Experience",
         "degreeCodes": {
+            "c09076": true,
             "c09066": true,
             "c09072": true,
             "c09074": true,
-            "c09076": true,
             "c09123": true,
             "c09127": true
         }
@@ -6113,10 +6199,10 @@
     "41055": {
         "name": "Engineering Workplace Reflection",
         "degreeCodes": {
+            "c09076": true,
             "c09066": true,
             "c09072": true,
             "c09074": true,
-            "c09076": true,
             "c09123": true,
             "c09127": true
         }
@@ -8173,97 +8259,130 @@
     },
     "11119": {
         "name": "Landscape Architecture Studio 1\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11172": {
         "name": "Landscape History and Theory 1",
         "degreeCodes": {
+            "c09079": true,
             "c09048": true
         }
     },
     "11128": {
         "name": "Communications 1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11197": {
         "name": "Landscape Architecture Studio 2\n\u00a0\n1",
         "degreeCodes": {
+            "c09079": true,
             "c09048": true
         }
     },
     "11174": {
         "name": "Landscape History and Theory 2",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11177": {
         "name": "Botany",
         "degreeCodes": {
+            "c09079": true,
             "c09048": true
         }
     },
     "11130": {
         "name": "Landscape Architecture Studio 3\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11129": {
         "name": "Communications 2",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11183": {
         "name": "Ecology",
         "degreeCodes": {
+            "c09079": true,
             "c09048": true
         }
     },
     "11198": {
         "name": "Landscape Architecture Studio 4\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11186": {
         "name": "Infrastructure",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11188": {
         "name": "Landscape Architecture Studio 5\n\u00a0\n1",
         "degreeCodes": {
+            "c09079": true,
             "c09048": true
         }
     },
     "11182": {
         "name": "Urbanisms",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11199": {
         "name": "Landscape Architecture Studio 6\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11196": {
         "name": "Landscape History and Theory 3",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11180": {
         "name": "Construction",
         "degreeCodes": {
+            "c09079": true,
             "c09048": true
         }
     },
     "11191": {
         "name": "Landscape Architecture Design Studio 7\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11502": {
         "name": "Practice: Finance and Project Management",
         "degreeCodes": {
+            "c09079": true,
             "c10413": true
         }
     },
     "11194": {
         "name": "Landscape Architecture Studio 8\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "11189": {
         "name": "Practice: Research Cultures",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09079": true
+        }
     },
     "16468": {
         "name": "Introduction to the Built Environment",
@@ -8648,15 +8767,21 @@
     },
     "11391": {
         "name": "Research Methods, Information Retrieval and Project Proposal\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09048": true
+        }
     },
     "11392": {
         "name": "Honours Thesis: Preparatory\n\u00a0\n1",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09048": true
+        }
     },
     "11393": {
         "name": "Honours Thesis\n\u00a0\n2",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09048": true
+        }
     },
     "80030": {
         "name": "Research Methods\u00a01",
@@ -9053,6 +9178,7 @@
     "41160": {
         "name": "Introduction to Biomedical Engineering",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
@@ -9067,24 +9193,28 @@
     "31061": {
         "name": "Database Principles",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41162": {
         "name": "Fundamentals of Biomedical Engineering Studio A",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41161": {
         "name": "Biomedical Industry Frameworks",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41163": {
         "name": "Fundamentals of Biomedical Engineering Studio B",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
@@ -9206,41 +9336,49 @@
     },
     "48371": {
         "name": "Advanced Engineering Computing",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09066": true
+        }
     },
     "48840": {
         "name": "Water Supply and Wastewater Engineering",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "48821": {
         "name": "Principles of Environmental Engineering",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "48860": {
         "name": "Pollution Control and Waste Management",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "48850": {
         "name": "Environmental Planning and Law",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41009": {
         "name": "Renewable Energy Technology",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "48881": {
         "name": "Water and Environmental Design",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
@@ -9321,6 +9459,7 @@
     "41031": {
         "name": "Electronic Analysis and Design",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
@@ -9390,12 +9529,14 @@
     "48663": {
         "name": "Advanced Manufacturing",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "48601": {
         "name": "Mechanical Vibration and Measurement",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
@@ -9442,6 +9583,7 @@
     "41082": {
         "name": "Introduction to Data Engineering",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true,
             "c10066": true,
             "c10408": true
@@ -9450,18 +9592,21 @@
     "41091": {
         "name": "Data Systems",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41083": {
         "name": "Data Engineering Design",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "48210": {
         "name": "Interrogating Technology: Sustainability, Environment and Social Change",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true,
             "c10066": true
         }
@@ -9469,6 +9614,7 @@
     "41093": {
         "name": "Software Engineering Studio 1A",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true,
             "c10066": true
         }
@@ -9476,6 +9622,7 @@
     "41094": {
         "name": "Software Engineering Studio 1B",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true,
             "c10066": true
         }
@@ -9483,24 +9630,28 @@
     "41095": {
         "name": "Software Engineering Studio 2A",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41096": {
         "name": "Software Engineering Studio 2B",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41097": {
         "name": "Software Engineering Studio 3A",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
     "41098": {
         "name": "Software Engineering Studio 3B",
         "degreeCodes": {
+            "c09066": true,
             "c09067": true
         }
     },
@@ -9681,23 +9832,33 @@
     },
     "41182": {
         "name": "System Security",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41183": {
         "name": "Privacy Preserving",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41184": {
         "name": "Secure Programming and Penetration Testing",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41180": {
         "name": "Data Analytics in Cyber Security",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41185": {
         "name": "Emerging Topics in Cyber Security and Privacy",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41113": {
         "name": "Software Development Studio 1",
@@ -9722,6 +9883,7 @@
     "37438": {
         "name": "Modern Analysis with Applications",
         "degreeCodes": {
+            "c09119": true,
             "c09020": true,
             "c09099": true
         }
@@ -9729,16 +9891,21 @@
     "37481": {
         "name": "Honours Seminar 1",
         "degreeCodes": {
+            "c09119": true,
             "c09020": true
         }
     },
     "41076": {
         "name": "Methods in Quantum Computing",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41173": {
         "name": "Quantum Software and Programming",
-        "degreeCodes": {}
+        "degreeCodes": {
+            "c09119": true
+        }
     },
     "41171": {
         "name": "Quantum Computer Architectures",
@@ -9767,6 +9934,7 @@
     "37458": {
         "name": "Advanced Bayesian Methods",
         "degreeCodes": {
+            "c09119": true,
             "c09020": true,
             "c09099": true
         }
@@ -9774,6 +9942,7 @@
     "37459": {
         "name": "Multivariate Data Analysis",
         "degreeCodes": {
+            "c09119": true,
             "c09020": true,
             "c09099": true
         }
