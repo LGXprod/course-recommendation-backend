@@ -2,7 +2,7 @@
     "STM90273": {
         "name": "Core subjects (Business)",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c09084",
         "subjects": {
             "core": [
                 "22107",
@@ -20,7 +20,7 @@
     "MAJ08437": {
         "name": "Accounting",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "22320",
@@ -38,7 +38,7 @@
     "MAJ09401": {
         "name": "Business Law",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "70110",
@@ -62,7 +62,7 @@
     "MAJ09209": {
         "name": "Economics",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "23566",
@@ -90,7 +90,7 @@
     "MAJ08440": {
         "name": "Finance",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "25556",
@@ -115,7 +115,7 @@
     "MAJ08446": {
         "name": "Human Resource Management",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21555",
@@ -133,7 +133,7 @@
     "MAJ02041": {
         "name": "Information Technology",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "31061",
@@ -164,7 +164,7 @@
     "MAJ08442": {
         "name": "International Business",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21510",
@@ -186,7 +186,7 @@
     "MAJ08438": {
         "name": "Management",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21510",
@@ -209,7 +209,7 @@
     "MAJ08441": {
         "name": "Marketing",
         "type": "major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "24202",
@@ -256,7 +256,7 @@
     "SMJ08131": {
         "name": "Advanced Advertising",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "24510",
@@ -270,7 +270,7 @@
     "SMJ08137": {
         "name": "Advertising",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "24202",
@@ -298,7 +298,7 @@
     "SMJ02036": {
         "name": "Business Information Systems",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "31266",
@@ -318,7 +318,7 @@
     "SMJ08120": {
         "name": "Business Innovation and Financial Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "22566",
@@ -331,7 +331,7 @@
     "SMJ09030": {
         "name": "Business Law",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "70110"
@@ -353,7 +353,7 @@
     "SMJ09058": {
         "name": "Econometrics",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "23571",
@@ -366,7 +366,7 @@
     "SMJ09028": {
         "name": "Economics",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "23566"
@@ -384,7 +384,7 @@
     "SMJ08203": {
         "name": "Event Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21640",
@@ -398,7 +398,7 @@
     "SMJ08123": {
         "name": "Finance",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "25556",
@@ -417,7 +417,7 @@
     "SMJ08116": {
         "name": "Financial Reporting",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "22522",
@@ -445,7 +445,7 @@
     "SMJ08128": {
         "name": "Human Resource Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21555"
@@ -461,7 +461,7 @@
     "SMJ08139": {
         "name": "International Business Studies",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [],
             "elective": []
@@ -470,7 +470,7 @@
     "SMJ08129": {
         "name": "International Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [],
             "elective": [
@@ -486,7 +486,7 @@
     "SMJ09034": {
         "name": "International Studies",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "97600",
@@ -507,7 +507,7 @@
     "SMJ02037": {
         "name": "Information Technology",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [],
             "elective": [
@@ -522,7 +522,7 @@
     "SMJ09035": {
         "name": "Language other than English",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [],
             "elective": []
@@ -531,7 +531,7 @@
     "SMJ08130": {
         "name": "Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21510"
@@ -548,7 +548,7 @@
     "SMJ08109": {
         "name": "Management Consulting",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21228",
@@ -565,7 +565,7 @@
     "SMJ08195": {
         "name": "Accounting in Practice",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [],
             "elective": [
@@ -582,7 +582,7 @@
     "SMJ08138": {
         "name": "Marketing",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "24202",
@@ -606,7 +606,7 @@
     "SMJ01007": {
         "name": "Mathematics",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "37131",
@@ -620,7 +620,7 @@
     "SMJ01025": {
         "name": "Quantitative Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "37131",
@@ -637,7 +637,7 @@
     "SMJ09036": {
         "name": "Specialist Country Studies",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "97640"
@@ -648,7 +648,7 @@
     "SMJ08126": {
         "name": "Sport Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21646",
@@ -662,7 +662,7 @@
     "SMJ01009": {
         "name": "Statistics",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "37131",
@@ -679,7 +679,7 @@
     "SMJ08204": {
         "name": "Strategic Marketing",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [],
             "elective": [
@@ -694,7 +694,7 @@
     "SMJ09033": {
         "name": "Taxation Law",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "70110",
@@ -710,7 +710,7 @@
     "SMJ08127": {
         "name": "Tourism Management",
         "type": "sub-major",
-        "degreeCode": "c10026",
+        "degreeCode": "c10235",
         "subjects": {
             "core": [
                 "21660",
@@ -842,6 +842,61 @@
             ]
         }
     },
+    "STM90850": {
+        "name": "Core subjects (Business)",
+        "type": "sub-major",
+        "degreeCode": "c10226",
+        "subjects": {
+            "core": [
+                "22107",
+                "21129",
+                "24108",
+                "23115",
+                "25300",
+                "26134",
+                "20100",
+                "22207"
+            ],
+            "elective": []
+        }
+    },
+    "STM90285": {
+        "name": "Core subjects (Accounting)",
+        "type": "sub-major",
+        "degreeCode": "c10235",
+        "subjects": {
+            "core": [
+                "22107",
+                "22207",
+                "22157",
+                "26100",
+                "25300",
+                "23115",
+                "24108",
+                "22605",
+                "26134"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ08443": {
+        "name": "Tourism Management",
+        "type": "major",
+        "degreeCode": "c10235",
+        "subjects": {
+            "core": [],
+            "elective": []
+        }
+    },
+    "MAJ08445": {
+        "name": "Sport Management",
+        "type": "major",
+        "degreeCode": "c10235",
+        "subjects": {
+            "core": [],
+            "elective": []
+        }
+    },
     "STM91176": {
         "name": "Creative Intelligence",
         "type": "sub-major",
@@ -867,6 +922,88 @@
                 "94663",
                 "94662",
                 "94658"
+            ],
+            "elective": []
+        }
+    },
+    "STM90106": {
+        "name": "Core subjects",
+        "type": "sub-major",
+        "degreeCode": "c09067",
+        "subjects": {
+            "core": [
+                "68037",
+                "33130",
+                "33230",
+                "48230",
+                "48240",
+                "48250",
+                "48270",
+                "48260"
+            ],
+            "elective": []
+        }
+    },
+    "STM90994": {
+        "name": "Professional Engineering Practice stream",
+        "type": "sub-major",
+        "degreeCode": "c09066",
+        "subjects": {
+            "core": [
+                "41035",
+                "41028",
+                "41055"
+            ],
+            "elective": []
+        }
+    },
+    "STM90839": {
+        "name": "Core subjects (Creative Intelligence and Innovation)",
+        "type": "sub-major",
+        "degreeCode": "c09098",
+        "subjects": {
+            "core": [
+                "81511",
+                "81512",
+                "81513",
+                "81514",
+                "81515",
+                "81516",
+                "81524",
+                "81522",
+                "81531",
+                "81532"
+            ],
+            "elective": [
+                "81525",
+                "81541",
+                "81523",
+                "81521",
+                "81528"
+            ]
+        }
+    },
+    "STM91052": {
+        "name": "Law stream (Honours)",
+        "type": "sub-major",
+        "degreeCode": "c09084",
+        "subjects": {
+            "core": [
+                "70102",
+                "70311",
+                "70211",
+                "70103",
+                "70104",
+                "70327",
+                "70317",
+                "71116",
+                "70108",
+                "70109",
+                "70517",
+                "70617",
+                "70417",
+                "70616",
+                "70114"
             ],
             "elective": []
         }
@@ -901,10 +1038,131 @@
             "elective": []
         }
     },
+    "STM91342": {
+        "name": "Core subjects (Architecture)",
+        "type": "sub-major",
+        "degreeCode": "c10004",
+        "subjects": {
+            "core": [
+                "11273",
+                "11212",
+                "11214",
+                "11274",
+                "11216",
+                "11206",
+                "11275",
+                "11248",
+                "11207",
+                "11276",
+                "11222",
+                "11225",
+                "11277",
+                "11232",
+                "11278",
+                "11247"
+            ],
+            "elective": []
+        }
+    },
+    "STM90373": {
+        "name": "Core subjects (Construction)",
+        "type": "sub-major",
+        "degreeCode": "c10214",
+        "subjects": {
+            "core": [
+                "16103",
+                "16105",
+                "16109",
+                "16203",
+                "16265",
+                "16206",
+                "16207",
+                "16307",
+                "16263",
+                "16314",
+                "16422",
+                "16423",
+                "16912",
+                "16913",
+                "16914",
+                "16468",
+                "16137",
+                "16138",
+                "16212",
+                "16317",
+                "16412",
+                "16470",
+                "16467",
+                "16466",
+                "16266",
+                "16471",
+                "16264",
+                "16469"
+            ],
+            "elective": []
+        }
+    },
+    "STM91579": {
+        "name": "Secondary Education core",
+        "type": "sub-major",
+        "degreeCode": "c10404",
+        "subjects": {
+            "core": [
+                "01004",
+                "01340",
+                "01340",
+                "01340",
+                "01004",
+                "01004",
+                "01004"
+            ],
+            "elective": []
+        }
+    },
+    "STM91492": {
+        "name": "Core (Physical Sciences - Mathematics)",
+        "type": "sub-major",
+        "degreeCode": "c10404",
+        "subjects": {
+            "core": [
+                "33360",
+                "65411",
+                "37233",
+                "68206",
+                "68413",
+                "37234",
+                "37335"
+            ],
+            "elective": [
+                "65306",
+                "65202",
+                "65307"
+            ]
+        }
+    },
+    "STM91490": {
+        "name": "Core (Physical Sciences - Chemistry and Physics)",
+        "type": "sub-major",
+        "degreeCode": "c10404",
+        "subjects": {
+            "core": [
+                "33360",
+                "65411",
+                "37233",
+                "68206",
+                "68413"
+            ],
+            "elective": [
+                "65306",
+                "65202",
+                "65307"
+            ]
+        }
+    },
     "STM90848": {
         "name": "Civil and Environmental Engineering specialist stream",
         "type": "sub-major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "41009",
@@ -918,7 +1176,7 @@
     "STM90849": {
         "name": "Mechanical and Mechatronic Engineering specialist stream",
         "type": "sub-major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48661",
@@ -931,7 +1189,7 @@
     "STM91414": {
         "name": "Electrical and Electronic Engineering specialist stream",
         "type": "sub-major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48531",
@@ -941,41 +1199,10 @@
             "elective": []
         }
     },
-    "STM90106": {
-        "name": "Core subjects",
-        "type": "sub-major",
-        "degreeCode": "c09066",
-        "subjects": {
-            "core": [
-                "68037",
-                "33130",
-                "33230",
-                "48230",
-                "48240",
-                "48250",
-                "48270",
-                "48260"
-            ],
-            "elective": []
-        }
-    },
-    "STM90994": {
-        "name": "Professional Engineering Practice stream",
-        "type": "sub-major",
-        "degreeCode": "c09066",
-        "subjects": {
-            "core": [
-                "41035",
-                "41028",
-                "41055"
-            ],
-            "elective": []
-        }
-    },
     "MAJ03472": {
         "name": "Biomedical Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "41160",
@@ -1003,7 +1230,7 @@
     "MAJ03001": {
         "name": "Civil Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48349",
@@ -1021,7 +1248,7 @@
     "MAJ03002": {
         "name": "Civil and Environmental Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48310",
@@ -1050,7 +1277,7 @@
     "MAJ03518": {
         "name": "Data Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "41025"
@@ -1078,7 +1305,7 @@
     "MAJ03005": {
         "name": "Electrical Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48510",
@@ -1101,7 +1328,7 @@
     "MAJ03524": {
         "name": "Electronic Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48623",
@@ -1119,7 +1346,7 @@
     "MAJ03007": {
         "name": "Mechanical Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48610",
@@ -1149,7 +1376,7 @@
     "MAJ03012": {
         "name": "Mechanical and Mechatronic Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48610",
@@ -1179,7 +1406,7 @@
     "MAJ03504": {
         "name": "Mechatronic Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48610",
@@ -1209,7 +1436,7 @@
     "MAJ03523": {
         "name": "Software Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "31260",
@@ -1223,7 +1450,7 @@
     "MAJ03537": {
         "name": "Electrical and Electronic Engineering",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [
                 "48623",
@@ -1239,7 +1466,7 @@
     "MAJ03540": {
         "name": "Flexible Engineering BE (Hons)",
         "type": "major",
-        "degreeCode": "c09066",
+        "degreeCode": "c09067",
         "subjects": {
             "core": [],
             "elective": [
@@ -1256,7 +1483,7 @@
     "SMJ10089": {
         "name": "Internet of Things (Systems and Devices)",
         "type": "sub-major",
-        "degreeCode": "c09066",
+        "degreeCode": "c10066",
         "subjects": {
             "core": [
                 "48623",
@@ -1269,7 +1496,7 @@
     "SMJ10090": {
         "name": "Internet of Things (Software)",
         "type": "sub-major",
-        "degreeCode": "c09066",
+        "degreeCode": "c10066",
         "subjects": {
             "core": [
                 "41092",
@@ -1277,6 +1504,197 @@
                 "48033"
             ],
             "elective": []
+        }
+    },
+    "STM90993": {
+        "name": "Professional Engineering Practice Program subjects",
+        "type": "sub-major",
+        "degreeCode": "c09067",
+        "subjects": {
+            "core": [
+                "41035",
+                "41036",
+                "41037",
+                "41038",
+                "41045",
+                "41046",
+                "41047",
+                "41048"
+            ],
+            "elective": []
+        }
+    },
+    "STM90356": {
+        "name": "Core subjects",
+        "type": "sub-major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "33130",
+                "33230",
+                "48230",
+                "48240",
+                "48260",
+                "68037"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ03134": {
+        "name": "Civil Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "48310",
+                "48321",
+                "48320",
+                "60101",
+                "48331",
+                "48330",
+                "48641",
+                "48349",
+                "48340",
+                "48352",
+                "48353",
+                "48350",
+                "48221",
+                "48210"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ03515": {
+        "name": "Data Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "41025"
+            ],
+            "elective": [
+                "31242",
+                "41026",
+                "31927",
+                "48024",
+                "31269",
+                "41001",
+                "31251",
+                "31253",
+                "48023",
+                "31748",
+                "48433",
+                "31282"
+            ]
+        }
+    },
+    "MAJ03413": {
+        "name": "Electrical Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "48510",
+                "48441",
+                "48521",
+                "48430",
+                "68038",
+                "48531",
+                "48540",
+                "48520",
+                "48530"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ03527": {
+        "name": "Electronic Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "48623",
+                "48451",
+                "48033"
+            ],
+            "elective": [
+                "41090"
+            ]
+        }
+    },
+    "MAJ03139": {
+        "name": "Mechanical Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "48610",
+                "48621",
+                "48620",
+                "60101",
+                "48600",
+                "48331",
+                "48510",
+                "48641",
+                "48640",
+                "48642",
+                "48651",
+                "48660",
+                "48650",
+                "48221"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ03507": {
+        "name": "Mechatronic Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "48610",
+                "48620",
+                "48621",
+                "48510",
+                "48520",
+                "48331",
+                "48600",
+                "48640",
+                "48531",
+                "48622",
+                "48660",
+                "48623",
+                "41012",
+                "41013"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ03520": {
+        "name": "Software Engineering",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [
+                "41093",
+                "41094"
+            ],
+            "elective": []
+        }
+    },
+    "MAJ03542": {
+        "name": "Flexible Engineering BEngSc",
+        "type": "major",
+        "degreeCode": "c10066",
+        "subjects": {
+            "core": [],
+            "elective": [
+                "48221",
+                "48430",
+                "41039",
+                "48023",
+                "48210"
+            ]
         }
     },
     "STM91173": {
@@ -1548,10 +1966,56 @@
             ]
         }
     },
+    "STM90651": {
+        "name": "Core subjects (Information Technology)",
+        "type": "sub-major",
+        "degreeCode": "c10148",
+        "subjects": {
+            "core": [
+                "31265",
+                "31266",
+                "48023",
+                "31268",
+                "31269",
+                "41092",
+                "31271",
+                "31272"
+            ],
+            "elective": []
+        }
+    },
+    "STM91312": {
+        "name": "Software Development Studios",
+        "type": "sub-major",
+        "degreeCode": "c10143",
+        "subjects": {
+            "core": [
+                "41113",
+                "41114"
+            ],
+            "elective": []
+        }
+    },
+    "STM91313": {
+        "name": "Work Integrated Learning",
+        "type": "sub-major",
+        "degreeCode": "c10143",
+        "subjects": {
+            "core": [
+                "41115",
+                "41116",
+                "41120",
+                "41123",
+                "41049",
+                "41050"
+            ],
+            "elective": []
+        }
+    },
     "STM90832": {
         "name": "Core (Law)",
         "type": "sub-major",
-        "degreeCode": "c09083",
+        "degreeCode": "c10124",
         "subjects": {
             "core": [
                 "70102",
@@ -1576,7 +2040,7 @@
     "STM90680": {
         "name": "Foundation stream (Life Sciences)",
         "type": "sub-major",
-        "degreeCode": "c10115",
+        "degreeCode": "c10184",
         "subjects": {
             "core": [
                 "91161",
@@ -1587,6 +2051,25 @@
                 "68041",
                 "91123",
                 "91400"
+            ],
+            "elective": []
+        }
+    },
+    "STM91191": {
+        "name": "Core subjects (Biotechnology)",
+        "type": "sub-major",
+        "degreeCode": "c10172",
+        "subjects": {
+            "core": [
+                "60001",
+                "65111",
+                "91161",
+                "26100",
+                "33116",
+                "91142",
+                "79006",
+                "91178",
+                "91369"
             ],
             "elective": []
         }
