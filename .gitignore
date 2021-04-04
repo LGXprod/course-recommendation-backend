@@ -1,3 +1,9 @@
+# Custom
+
+scripts/node_modules/
+
+# Below is boilerplate
+
 # Logs
 logs
 *.log
