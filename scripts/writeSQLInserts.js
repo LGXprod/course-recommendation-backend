@@ -1,5 +1,4 @@
 const courseAreasDegrees = require("./scraping/data/courseAreaDegrees.json");
-const collatedData = require("./scraping/data/collatedData.json");
-const subjectDetails = require("./scraping/data/subjectDetails.json");
+const degreeMajorSubject = require("./scraping/data/degreeMajorSubject.json");
+const majorsSubjectDetails = require("./scraping/data/majorsSubjectDetails.json");
 
-console.log(subjectDetails);
