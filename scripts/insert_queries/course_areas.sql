@@ -1,0 +1,14 @@
+insert into course_areas (courseAreaName) values ("Analytics and Data Science");
+insert into course_areas (courseAreaName) values ("Business");
+insert into course_areas (courseAreaName) values ("Communication");
+insert into course_areas (courseAreaName) values ("Creative Intelligence and Innovation");
+insert into course_areas (courseAreaName) values ("Design, Architecture and Building");
+insert into course_areas (courseAreaName) values ("Education");
+insert into course_areas (courseAreaName) values ("Engineering");
+insert into course_areas (courseAreaName) values ("Health");
+insert into course_areas (courseAreaName) values ("UTS: Health (GEM)");
+insert into course_areas (courseAreaName) values ("Information Technology");
+insert into course_areas (courseAreaName) values ("International Studies");
+insert into course_areas (courseAreaName) values ("Law");
+insert into course_areas (courseAreaName) values ("Science");
+insert into course_areas (courseAreaName) values ("Transdisciplinary Innovation");

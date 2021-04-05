@@ -1,6 +1,6 @@
-create database courseRecommender_dev;
+create database crDB;
 
-use courseRecommender_dev;
+use crDB;
 
 create table students (
   student_id varchar(50) not null,
@@ -45,8 +45,7 @@ create table subjects (
   description mediumtext,
   content_topics mediumtext,
   num_group_assessments smallint,
-  assessment_types mediumtext,
-  degree_id varchar(8) not null
+  assessment_types mediumtext
 );
 
 create table staff_permissions (
@@ -60,4 +59,9 @@ create table staff (
   role varchar(50),
   fName varchar(50),
   sName varchar(50)
+);
+
+create table core_subjects (
+  subject_code varchar(8) not null,
+  degree_id varchar(8) not null
 );
