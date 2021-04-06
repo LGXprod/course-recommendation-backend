@@ -6,7 +6,7 @@ This API is built strictly using the REST (Representational state transfer) arch
 
 <hr />
 
-**`Note:`** all requests made to any endpoint (except session) must have the session id stored in the header in the authorization attribute. For example, **headers: { authorization: "Basic {session_id of user}" }**.
+**`Note:`** all requests made to any endpoint (except session and post student) must have the session id stored in the header in the authorization attribute. For example, **headers: { authorization: "Basic {session_id of user}" }**.
 
 ## /student
 

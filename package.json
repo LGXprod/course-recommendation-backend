@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/LGXprod/course-recommendation-backend/issues"
   },
-  "homepage": "https://github.com/LGXprod/course-recommendation-backend#readme"
+  "homepage": "https://github.com/LGXprod/course-recommendation-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^3.9.0"
+  }
 }
