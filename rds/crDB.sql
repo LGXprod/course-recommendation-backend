@@ -65,3 +65,8 @@ create table core_subjects (
   subject_code varchar(8) not null,
   degree_id varchar(8) not null
 );
+
+create table sessions (
+  session_id varchar(100) not null,
+  user_id varchar(50) not null
+);
