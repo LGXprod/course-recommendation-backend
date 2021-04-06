@@ -33,11 +33,7 @@ package:
  exclude:
    - local/
    - rds/
-<<<<<<< Updated upstream
    - scripts/
-=======
-   - data_generation/
->>>>>>> Stashed changes
 
 functions:
   hello:
