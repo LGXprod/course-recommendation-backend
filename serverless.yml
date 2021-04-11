@@ -35,3 +35,10 @@ functions:
           path: student
           method: POST
           cors: true
+  createSession:
+    handler: lambda/createSession.handler
+    events:
+      - http:
+          path: session
+          method: POST
+          cors: true
