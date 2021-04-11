@@ -28,6 +28,13 @@ package:
    - scripts/
 
 functions:
+  getStudent:
+    handler: lambda/getStudent.handler
+    events:
+      - http:
+          path: student/{student_id}/{session_id}
+          method: GET
+          cors: true
   createStudent:
     handler: lambda/createStudent.handler
     events:

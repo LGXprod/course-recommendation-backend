@@ -1,6 +1,6 @@
-const { connection, query } = require("./connectDB");
+const { connection, query } = require("./common/connectDB");
 const querystring = require("querystring");
-const res = require("./api_responses");
+const res = require("./common/api_responses");
 
 exports.handler = async (event) => {
   if (event.body != null) {

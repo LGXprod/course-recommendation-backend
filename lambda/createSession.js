@@ -1,7 +1,7 @@
-const { connection, query } = require("./connectDB");
+const { connection, query } = require("./common/connectDB");
 const querystring = require("querystring");
 const { nanoid } = require("nanoid");
-const res = require("./api_responses");
+const res = require("./common/api_responses");
 
 exports.handler = async (event) => {
   const body = querystring.parse(event.body);
