@@ -32,7 +32,7 @@ functions:
     handler: lambda/getStudent.handler
     events:
       - http:
-          path: student/{student_id}/{session_id}
+          path: student/{session_id}
           method: GET
           cors: true
   createStudent:
@@ -48,4 +48,11 @@ functions:
       - http:
           path: session
           method: POST
+          cors: true
+  deleteSession:
+    handler: lambda/deleteSession.handler
+    events:
+      - http:
+          path: session
+          method: DELETE
           cors: true

@@ -1,4 +1,4 @@
-const { connection, query } = require("./common/connectDB");
+const { getConnection } = require("./common/connectDB");
 const querystring = require("querystring");
 const { nanoid } = require("nanoid");
 const res = require("./common/api_responses");
@@ -8,16 +8,15 @@ exports.handler = async (event) => {
   
   if (body != null && body.id != null && body.password != null) {
     const { id, password } = body;
+    const connection = await getConnection();
 
     try {
-      const student = await query(`select student_id from students where student_id="${id}" 
-                              and password="${password}";`);
-
-      console.log("student_id", student[0].student_id);
+      await connection.execute(`select student_id from students where student_id="${id}" 
+                                and password="${password}";`);
 
       const session_id = nanoid(12);
 
-      await query(
+      await connection.execute(
         `insert into sessions (session_id, user_id) values ("${session_id}", "${id}");`
       );
 
@@ -25,6 +24,7 @@ exports.handler = async (event) => {
 
       return res._200({ session_id });
     } catch (err) {
+      connection.end();
       console.log("err", err);
       return res._400();
     }

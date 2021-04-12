@@ -3,13 +3,10 @@ const querystring = require("querystring");
 
 (async () => {
   const body = querystring.stringify({
-    id: "3",
-    password: "password2",
+    session_id: "Rt-iJnywcxRI"
   });
 
-  console.log(
-    await require("../createSession").handler({
-      body,
-    })
-  );
+  console.log(await require("../deleteSession").handler({
+    body
+  }));
 })();

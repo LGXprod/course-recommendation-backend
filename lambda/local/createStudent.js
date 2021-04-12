@@ -4,7 +4,7 @@ const createStudent = require("../createStudent");
 
 (async () => {
   const body = querystring.stringify({
-    student_id: "8",
+    student_id: "9",
     password: "password",
     fName: "fwefw",
     sName: "wedfwefw",
