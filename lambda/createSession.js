@@ -11,13 +11,20 @@ exports.handler = async (event) => {
     const connection = await getConnection();
 
     try {
-      await connection.execute(`select student_id from students where student_id="${id}" 
+      const [ queryResult ] = await connection.execute(`select count(*) as count from students where student_id="${id}" 
                                 and password="${password}";`);
+
+      if (queryResult[0].count == 0) {
+        connection.end();
+
+        return res._400();
+      }
 
       const session_id = nanoid(12);
 
       await connection.execute(
-        `insert into sessions (session_id, user_id) values ("${session_id}", "${id}");`
+        `insert into sessions (session_id, user_id) values ("${session_id}", "${id}")
+         on Duplicate Key Update session_id = "${session_id}";`
       );
 
       connection.end();

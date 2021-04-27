@@ -56,3 +56,10 @@ functions:
           path: session
           method: DELETE
           cors: true
+  getRecommendation:
+    handler: lambda/getRecommendation.handler
+    events:
+      - http:
+          path: recommendation
+          method: GET
+          cors: true

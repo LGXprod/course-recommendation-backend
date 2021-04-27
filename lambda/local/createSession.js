@@ -3,8 +3,8 @@ const querystring = require("querystring");
 
 (async () => {
   const body = querystring.stringify({
-    id: "3",
-    password: "password2",
+    id: "1",
+    password: "password",
   });
 
   console.log(
