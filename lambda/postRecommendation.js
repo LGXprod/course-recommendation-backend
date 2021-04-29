@@ -8,7 +8,7 @@ exports.handler = async (event) => {
 
   console.log("event", event.headers["X-Session_id"]);
 
-  if (event.body == null && event.headers["X-Session_id"] != null) {
+  if (event.body != null && event.headers["X-Session_id"] != null) {
     if (await validSession(event.headers["X-Session_id"], connection)) {
       try {
         const [
