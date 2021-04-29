@@ -62,4 +62,9 @@ functions:
       - http:
           path: recommendation
           method: GET
-          cors: true
+          cors:
+            origins:
+              - '*'
+            headers:
+              - X-Session_id
+            allowCredentials: false

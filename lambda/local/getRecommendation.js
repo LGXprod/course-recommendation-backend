@@ -6,7 +6,7 @@ require("dotenv").config({ path: "../.env" });
       "need": "params still"
     },
     headers: {
-      "authorization": "wefwe"
+      "X-Session_id": "wefwe"
     }
   });
 
