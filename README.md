@@ -115,6 +115,31 @@ This will be the request made to log out a user.
 
 <hr />
 
+## /recommendation (done)
+
+The purpose of sessions of a particular user, is to check that they have logged in. You will have to store their session id in local storage or memory. A user session will last 60 minutes. After that it will be removed from the database and the user will have to login again.
+
+### `get`
+
+This will be the request made to login a user.
+
+**Request headers:**
+- X-Session_id
+
+**Request body:**
+- Student Preference Data
+- Number of subjects to recommend
+
+**Response to successful request**
+- Status code: `200`
+- Recommended subjects and their data
+
+**Response to unsuccessful request**
+- Status code: `403`
+  - 403 means that the entity/person trying to gain access to the system is not authorised.
+
+<hr />
+
 ## /course-areas
 
 <hr />
@@ -136,3 +161,4 @@ This will be the request made to log out a user.
 <hr />
 
 ## /subjects
+
