@@ -1,14 +1,15 @@
 const querystring = require("querystring");
+const validate = require("jsonschema").validate;
+
 const { getConnection } = require("./common/connectDB");
 const res = require("./common/api_responses");
 const validSession = require("./common/validSession");
+const userInterestsSchema = require("./request_schemas/userInterests.json");
 
 exports.handler = async (event) => {
   const connection = await getConnection();
 
-  console.log("event", event.headers["X-Session_id"]);
-
-  if (event.body != null && event.headers["X-Session_id"] != null) {
+  if (event.headers["X-Session_id"] != null) {
     if (await validSession(event.headers["X-Session_id"], connection)) {
       try {
         const [

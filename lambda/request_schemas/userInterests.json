@@ -1,17 +1,17 @@
 {
-  "definitions": {},
-  "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "userInterests",
-  "required": ["assessmentTypes", "isGroupWork", "interestingKeywords"],
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
   "properties": {
     "assessmentTypes": {
-      "type": "object"
+      "type": "string"
     },
     "isGroupWork": {
       "type": "boolean"
     },
     "interestingKeywords": {
-      "type": "array"
+      "type": "string"
     }
-  }
+  },
+  "required": ["assessmentTypes", "isGroupWork", "interestingKeywords"],
+  "additionalProperties": false
 }

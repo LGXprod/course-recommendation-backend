@@ -18,6 +18,7 @@
   "homepage": "https://github.com/LGXprod/course-recommendation-backend#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "jsonschema": "^1.4.0",
     "mysql2": "^2.2.5",
     "nanoid": "^3.1.22"
   },

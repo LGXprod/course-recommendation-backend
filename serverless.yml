@@ -56,15 +56,12 @@ functions:
           path: session
           method: DELETE
           cors: true
-  postRecommendation:
-    handler: lambda/postRecommendation.handler
+  createRecommendation:
+    handler: lambda/createRecommendation.handler
     events:
       - http:
           path: recommendation
           method: POST
-          request:
-            schema:
-              application/json: ${file(lambda/request_schemas/userInterests.json)}
           cors:
             origins:
               - '*'
