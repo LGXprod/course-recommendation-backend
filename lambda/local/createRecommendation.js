@@ -1,5 +1,5 @@
 require("dotenv").config({ path: "../.env" });
-const querystring = require("querystring");
+const qs = require("qs");
 
 const createQueryString = (data) => {
   return Object.keys(data).map(key => {
@@ -11,10 +11,10 @@ const createQueryString = (data) => {
 
 (async () => {
   const res = await require("../createRecommendation").handler({
-    body: querystring.stringify({
-      assessmentTypes: JSON.stringify({ lab: true }),
+    body: qs.stringify({
+      assessmentTypes: { lab: true },
       isGroupWork: false,
-      interestingKeywords: JSON.stringify(["fwe", "fwefw", "hrteh"]),
+      // interestingKeywords: ["fwe", "fwefw", "hrteh"],
     }),
     headers: {
       "X-Session_id": "4PlYeawOorQK",

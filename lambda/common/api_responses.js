@@ -11,7 +11,9 @@ const res = {
     };
   },
 
-  _400(data = {}) {
+  _400(data = {}, invalidBody = false) {
+    data = data == null ? {} : data;
+    
     return {
       headers: {
         "Content-Type": "application/json",
@@ -19,7 +21,7 @@ const res = {
         "Access-Control-Allow-Origin": "*",
       },
       statusCode: 400,
-      body: JSON.stringify(data),
+      body: JSON.stringify({ ...data, message: invalidBody ? "request body invalid" : "" }),
     };
   },
 

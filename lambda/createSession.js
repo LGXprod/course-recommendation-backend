@@ -1,12 +1,15 @@
-const { getConnection } = require("./common/connectDB");
-const querystring = require("querystring");
+const { validate } = require("jsonschema");
+const qs = require("qs");
 const { nanoid } = require("nanoid");
+
+const { getConnection } = require("./common/connectDB");
 const res = require("./common/api_responses");
+const loginSchema = require("./request_schemas/login.json");
 
 exports.handler = async (event) => {
-  const body = querystring.parse(event.body);
+  const body = qs.parse(event.body);
   
-  if (body != null && body.id != null && body.password != null) {
+  if (validate(body, loginSchema).valid) {
     const { id, password } = body;
     const connection = await getConnection();
 
@@ -36,6 +39,6 @@ exports.handler = async (event) => {
       return res._400();
     }
   } else {
-    return res._400();
+    return res._400(null, true);
   }
 };

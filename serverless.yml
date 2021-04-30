@@ -35,13 +35,13 @@ functions:
           path: student/{session_id}
           method: GET
           cors: true
-  createStudent:
-    handler: lambda/createStudent.handler
-    events:
-      - http:
-          path: student
-          method: POST
-          cors: true
+  # createStudent:
+  #   handler: lambda/createStudent.handler
+  #   events:
+  #     - http:
+  #         path: student
+  #         method: POST
+  #         cors: true
   createSession:
     handler: lambda/createSession.handler
     events:

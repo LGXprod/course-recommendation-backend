@@ -3,13 +3,14 @@
   "type": "object",
   "properties": {
     "assessmentTypes": {
-      "type": "string"
+      "type": "object"
     },
     "isGroupWork": {
-      "type": "boolean"
+      "type": "string",
+      "enum": ["true", "false"]
     },
     "interestingKeywords": {
-      "type": "string"
+      "type": "array"
     }
   },
   "required": ["assessmentTypes", "isGroupWork", "interestingKeywords"],

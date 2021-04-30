@@ -1,7 +1,6 @@
 {
-  "definitions": {},
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "userInterests",
+  "type": "object",
   "required": ["id", "password"],
   "properties": {
     "id": { "type": "string" },
