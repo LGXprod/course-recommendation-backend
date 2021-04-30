@@ -26,6 +26,8 @@ package:
    - lambda/local/
    - rds/
    - scripts/
+   - KNN-final/
+   - KNN-prototype/
 
 functions:
   getStudent:
