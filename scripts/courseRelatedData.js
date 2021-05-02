@@ -105,4 +105,4 @@ for (subjectCode in majorsSubjectDetails) {
     '${escape(JSON.stringify(subject.assessment_types))}');\n`;
 }
 
-file.write("./insert_queries/subjects.sql", subjects);
+file.write("./queries/subjects.sql", subjects);

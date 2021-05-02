@@ -4,10 +4,7 @@ const validSession = require("./common/validSession");
 
 exports.handler = async (event) => {
   const pathParams = event.pathParameters;
-  if (
-    pathParams != null &&
-    pathParams.session_id != null
-  ) {
+  if (pathParams != null && pathParams.session_id != null) {
     const connection = await getConnection();
 
     try {
@@ -16,17 +13,24 @@ exports.handler = async (event) => {
       const student_id = await validSession(session_id, connection, true);
 
       if (student_id != null) {
-        const [ queryResult ] = await connection.execute(`select student_id, fName, sName, age, 
-                                                    fullTimePreferred, 
-                                                    completedSubjects, degree_id from students
+        const [
+          studentDetails,
+        ] = await connection.execute(`select student_id, fName, sName, age, 
+                                                    fullTimePreferred, completedSubjects, 
+                                                    degree_id, isNewUser from students
                                                     where student_id = "${student_id}";`);
 
-        connection.end(); 
+        const [
+          courseName,
+        ] = await connection.execute(`select name from degrees where 
+                                                        degree_id = "${studentDetails[0].degree_id}";`);
 
-        if (queryResult.length == 0) {
+        connection.end();
+
+        if (studentDetails.length == 0) {
           return res._400({ message: "student id doesn't exist" });
         } else {
-          return res._200(queryResult[0]);
+          return res._200({ ...studentDetails[0], courseName: courseName[0].name });
         }
       } else {
         connection.end();

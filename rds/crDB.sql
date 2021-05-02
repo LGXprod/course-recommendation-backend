@@ -17,7 +17,7 @@ create table course_areas (
   courseAreaName varchar(50) not null
 );
 
-create table ug_degrees (
+create table degrees (
   degree_id varchar(8) not null,
   courseAreaName varchar(50) not null
 );
@@ -72,3 +72,7 @@ create table sessions (
 );
 
 alter table sessions drop primary key, add primary key(user_id);
+
+alter table students add column isNewUser boolean;
+
+alter table degrees add column name varchar(150);

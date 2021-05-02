@@ -20,6 +20,7 @@ provider:
     DB_USERNAME: ${env:DB_USERNAME}
     DB_PASSWORD: ${env:DB_PASSWORD}
     HOST: ${env:HOST}
+    REC_API_KEY: ${env:REC_API_KEY}
 
 package:
  exclude:
@@ -70,3 +71,11 @@ functions:
             headers:
               - X-Session_id
             allowCredentials: false
+  generateRecommendation:
+    runtime: python3.8
+    handler: lambda/rec_handler.generateRecommendation
+    events:
+      - http:
+          path: generate-recommendation
+          method: POST
+          cors: true
