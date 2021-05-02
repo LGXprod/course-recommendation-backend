@@ -1,8 +1,6 @@
 import pandas as pd
 from scipy import spatial
 
-
-
 def onehot_encode(valueset, valuelist):
     return [1 if value in valuelist else 0 for value in valueset]
 
@@ -78,15 +76,16 @@ class Prediction:
 
 
 # EXAMPLE USAGE BELOW:
-DATAPATH = 'sampledata.csv'
+# DATAPATH = 'sampledata.csv'
 
-def testing():
+# def testing():
 
-    data = curate(DATAPATH)
-    sample = {'Group Assignments': 0, 'Assignment Types': ['Quiz/test'], 'Keywords':['LTE', 'Prototyping']}
+#     data = curate(DATAPATH)
+#     # print("d", data)
+#     sample = {'Group Assignments': 0, 'Assignment Types': ['Quiz/test'], 'Keywords':['LTE', 'Prototyping']}
     
-    prediction = Prediction(sample, data)
-    similarity_list = prediction.get_similaritylist()
-    print(similarity_list)
+#     prediction = Prediction(sample, data)
+#     similarity_list = prediction.get_similaritylist()
+#     print(similarity_list)
 
-testing()
+# testing()
