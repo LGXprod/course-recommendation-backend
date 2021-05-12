@@ -8,7 +8,7 @@ This API is built strictly using the REST (Representational state transfer) arch
 
 **`Note:`** all requests made to any endpoint (except session and post student) must have the session id stored in the header in the authorization attribute. For example, **headers: { authorization: "Basic {session_id of user}" }**.
 
-## /student
+## /student (done)
 
 ### `get`
 
@@ -80,7 +80,7 @@ This API is built strictly using the REST (Representational state transfer) arch
 
 <hr />
 
-## /session
+## /session (done)
 
 The purpose of sessions of a particular user, is to check that they have logged in. You will have to store their session id in local storage or memory. A user session will last 60 minutes. After that it will be removed from the database and the user will have to login again.
 
@@ -97,7 +97,7 @@ This will be the request made to login a user.
   - User has a valid session and hence they can precede to use the system.
 - Body: Will contain an attribute called session_id. 
 
-**Response to successful request**
+**Response to unsuccessful request**
 - Status code: `401`
   - 401 means that the entity/person trying to gain access to the system is not authorised.
 
@@ -109,9 +109,34 @@ This will be the request made to log out a user.
 - Status code: `200`
   - User was successfully logged out.
 
-**Response to successful request**
+**Response to unsuccessful request**
 - Status code: `400`
   - User wasn't successfully logged out.
+
+<hr />
+
+## /recommendation (done)
+
+The purpose of sessions of a particular user, is to check that they have logged in. You will have to store their session id in local storage or memory. A user session will last 60 minutes. After that it will be removed from the database and the user will have to login again.
+
+### `get`
+
+This will be the request made to login a user.
+
+**Request headers:**
+- X-Session_id
+
+**Request body:**
+- Student Preference Data
+- Number of subjects to recommend
+
+**Response to successful request**
+- Status code: `200`
+- Recommended subjects and their data
+
+**Response to unsuccessful request**
+- Status code: `403`
+  - 403 means that the entity/person trying to gain access to the system is not authorised.
 
 <hr />
 
@@ -136,3 +161,4 @@ This will be the request made to log out a user.
 <hr />
 
 ## /subjects
+

@@ -70,3 +70,5 @@ create table sessions (
   session_id varchar(100) not null,
   user_id varchar(50) not null
 );
+
+alter table sessions drop primary key, add primary key(user_id);

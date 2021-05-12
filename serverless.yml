@@ -26,8 +26,17 @@ package:
    - lambda/local/
    - rds/
    - scripts/
+   - KNN-final/
+   - KNN-prototype/
 
 functions:
+  getStudent:
+    handler: lambda/getStudent.handler
+    events:
+      - http:
+          path: student/{session_id}
+          method: GET
+          cors: true
   createStudent:
     handler: lambda/createStudent.handler
     events:
@@ -35,3 +44,32 @@ functions:
           path: student
           method: POST
           cors: true
+  createSession:
+    handler: lambda/createSession.handler
+    events:
+      - http:
+          path: session
+          method: POST
+          cors: true
+  deleteSession:
+    handler: lambda/deleteSession.handler
+    events:
+      - http:
+          path: session
+          method: DELETE
+          cors: true
+  postRecommendation:
+    handler: lambda/postRecommendation.handler
+    events:
+      - http:
+          path: recommendation
+          method: POST
+          request:
+            schema:
+              application/json: ${file(lambda/request_schemas/userInterests.json)}
+          cors:
+            origins:
+              - '*'
+            headers:
+              - X-Session_id
+            allowCredentials: false
