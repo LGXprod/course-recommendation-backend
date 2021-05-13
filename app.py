@@ -1,6 +1,6 @@
 import json
+import os
 
-from dotenv import dotenv_values
 from flask import Flask
 from flask import request
 import pymysql.cursors
@@ -9,7 +9,7 @@ import KNN
 
 app = Flask(__name__)
 
-config = dotenv_values(".env")
+config = os.environ
 print("config", config)
 
 connection = pymysql.connect(
