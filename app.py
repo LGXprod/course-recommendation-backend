@@ -43,6 +43,7 @@ def postRecommendation():
 
       prediction = KNN.Prediction(quizData, data)
       similarity_list = prediction.get_similaritylist()
+      print(similarity_list)
 
       # query = "update students set recommendations = %s where student_id = (select user_id as student_id from sessions where session_id=%s)"
       # vals = (json.dumps(similarity_list), body["session_id"])
