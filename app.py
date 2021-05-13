@@ -9,8 +9,8 @@ import KNN
 
 app = Flask(__name__)
 
-config = dotenv_values(".env")
-print("config", config)
+# config = dotenv_values(".env")
+# print("config", config)
 
 # connection = pymysql.connect(
 #   host = config["HOST"], 
@@ -26,6 +26,8 @@ data = KNN.curate("./sampledata.csv")
 
 prediction = KNN.Prediction(sample, data)
 similarity_list = prediction.get_similaritylist()
+
+print("here1")
 
 @app.route("/recommendation", methods=["GET", "POST"])
 def postRecommendation():
@@ -68,6 +70,8 @@ def postRecommendation():
         },
         "statusCode": 400
       }
+
+print("here2")
 
 # if __name__ == '__app__':
 #     app.run(debug=True)
