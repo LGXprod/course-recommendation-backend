@@ -6,4 +6,5 @@ scipy==1.6.2
 six==1.15.0
 python-dotenv==0.17.1
 pymysql==1.0.2
+flask==2.0.0
 gunicorn
