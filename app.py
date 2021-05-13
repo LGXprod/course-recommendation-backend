@@ -53,9 +53,9 @@ def postRecommendation():
 
       # connection.commit()
 
-      return similarity_list, 200
+      return json.dumps(similarity_list), 200, {'ContentType':'application/json'}
     except:
-      return {}, 400
+      return json.dumps({}), 400, {'ContentType':'application/json'}
 
 print("here2")
 
