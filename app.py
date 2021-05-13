@@ -9,17 +9,17 @@ import KNN
 
 app = Flask(__name__)
 
-# config = dotenv_values(".env")
-# print("config", config)
+config = dotenv_values(".env")
+print("config", config)
 
-# connection = pymysql.connect(
-#   host = config["HOST"], 
-#   user = config["DB_USERNAME"],
-#   password = config["DB_PASSWORD"], 
-#   database = "crDB",
-#   charset = 'utf8mb4',
-#   cursorclass = pymysql.cursors.DictCursor
-# )
+connection = pymysql.connect(
+  host = config["HOST"], 
+  user = config["DB_USERNAME"],
+  passwd = config["DB_PASSWORD"], 
+  database = "crDB",
+  charset = 'utf8mb4',
+  cursorclass = pymysql.cursors.DictCursor
+)
 
 data = KNN.curate("./sampledata.csv")
 # sample = {'Group Assignments': 0, 'Assignment Types': ['Quiz/test'], 'Keywords':['LTE', 'Prototyping']}
@@ -45,16 +45,18 @@ def postRecommendation():
       similarity_list = prediction.get_similaritylist()
       print(similarity_list)
 
-      # query = "update students set recommendations = %s where student_id = (select user_id as student_id from sessions where session_id=%s)"
-      # vals = (json.dumps(similarity_list), body["session_id"])
+      query = "update students set recommendations = %s where student_id = (select user_id as student_id from sessions where session_id=%s)"
+      vals = (json.dumps(similarity_list), body["session_id"])
 
-      # with connection.cursor() as cursor:
-      #   cursor.execute(query, vals)
+      with connection.cursor() as cursor:
+        cursor.execute(query, vals)
 
-      # connection.commit()
+      connection.commit()
 
       return json.dumps(similarity_list), 200, {'ContentType':'application/json'}
-    except:
+    except Exception as e:
+      print("here")
+      print("e", e)
       return json.dumps({}), 400, {'ContentType':'application/json'}
 
 print("here2")
