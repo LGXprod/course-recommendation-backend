@@ -24,8 +24,8 @@ app = Flask(__name__)
 data = KNN.curate("./sampledata.csv")
 # sample = {'Group Assignments': 0, 'Assignment Types': ['Quiz/test'], 'Keywords':['LTE', 'Prototyping']}
 
-prediction = KNN.Prediction(sample, data)
-similarity_list = prediction.get_similaritylist()
+# prediction = KNN.Prediction(sample, data)
+# similarity_list = prediction.get_similaritylist()
 
 print("here1")
 
