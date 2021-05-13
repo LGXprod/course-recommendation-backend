@@ -76,3 +76,5 @@ alter table sessions drop primary key, add primary key(user_id);
 alter table students add column isNewUser boolean;
 
 alter table degrees add column name varchar(150);
+
+alter table students add column recommendations mediumtext;
