@@ -3,7 +3,6 @@ import json
 from dotenv import dotenv_values
 from flask import Flask
 from flask import request
-from flask import Response
 import pymysql.cursors
 
 import KNN
@@ -54,9 +53,9 @@ def postRecommendation():
 
       # connection.commit()
 
-      return Response(similarity_list, 200, mimetype='application/json')
+      return similarity_list, 200
     except:
-      return Response(None, 400, mimetype='application/json')
+      return {}, 400
 
 print("here2")
 
