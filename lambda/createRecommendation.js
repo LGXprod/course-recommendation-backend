@@ -1,5 +1,6 @@
 const qs = require("qs");
 const validate = require("jsonschema").validate;
+const axios = require("axios").default;
 
 const { getConnection } = require("./common/connectDB");
 const res = require("./common/api_responses");
@@ -17,6 +18,8 @@ exports.handler = async (event) => {
             queryResult,
           ] = await connection.execute(`SELECT * FROM subjects where credit_points is not null
                                         ORDER BY RAND() LIMIT 8;`);
+
+          // const recommendation = axios.get("")
 
           connection.end();
 

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LGXprod/course-recommendation-backend#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "jsonschema": "^1.4.0",
     "mysql2": "^2.2.5",

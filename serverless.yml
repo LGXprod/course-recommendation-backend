@@ -28,6 +28,7 @@ package:
    - rds/
    - scripts/
    - KNN-prototype/
+   - lambda/old_rec
 
 functions:
   getStudent:
@@ -37,13 +38,13 @@ functions:
           path: student/{session_id}
           method: GET
           cors: true
-  # createStudent:
-  #   handler: lambda/createStudent.handler
-  #   events:
-  #     - http:
-  #         path: student
-  #         method: POST
-  #         cors: true
+  createStudent:
+    handler: lambda/createStudent.handler
+    events:
+      - http:
+          path: student
+          method: POST
+          cors: true
   createSession:
     handler: lambda/createSession.handler
     events:
@@ -58,23 +59,23 @@ functions:
           path: session
           method: DELETE
           cors: true
-  createRecommendation:
-    handler: lambda/createRecommendation.handler
-    events:
-      - http:
-          path: recommendation
-          method: POST
-          cors:
-            origins:
-              - '*'
-            headers:
-              - X-Session_id
-            allowCredentials: false
-  generateRecommendation:
-    runtime: python3.8
-    handler: lambda/rec_handler.generateRecommendation
-    events:
-      - http:
-          path: generate-recommendation
-          method: POST
-          cors: true
+  # createRecommendation:
+  #   handler: lambda/createRecommendation.handler
+  #   events:
+  #     - http:
+  #         path: recommendation
+  #         method: POST
+  #         cors:
+  #           origins:
+  #             - '*'
+  #           headers:
+  #             - X-Session_id
+  #           allowCredentials: false
+  # generateRecommendation:
+  #   runtime: python3.8
+  #   handler: lambda/generateRecommendation.lambda_handler
+  #   events:
+  #     - http:
+  #         path: generate-recommendation
+  #         method: POST
+  #         cors: true
