@@ -10,7 +10,7 @@ import KNN
 app = Flask(__name__)
 
 config = os.environ
-print("config", config)
+# print("config", config)
 
 connection = pymysql.connect(
   host = config["HOST"], 
@@ -22,16 +22,12 @@ connection = pymysql.connect(
 )
 
 data = KNN.curate("./sampledata.csv")
-# sample = {'Group Assignments': 0, 'Assignment Types': ['Quiz/test'], 'Keywords':['LTE', 'Prototyping']}
-
-# prediction = KNN.Prediction(sample, data)
-# similarity_list = prediction.get_similaritylist()
-
-print("here1")
 
 @app.route("/recommendation", methods=["GET", "POST"])
 def postRecommendation():
   if request.method == "POST":
+    session_id = request.headers.get("session_id")
+
     try:
       body = request.form
 
@@ -43,23 +39,42 @@ def postRecommendation():
 
       prediction = KNN.Prediction(quizData, data)
       similarity_list = prediction.get_similaritylist()
-      print(similarity_list)
 
-      query = "update students set recommendations = %s where student_id = (select user_id as student_id from sessions where session_id=%s)"
-      vals = (json.dumps(similarity_list), body["session_id"])
+      session_query = "select user_id as student_id from sessions where session_id = %s"
+      session_query_vals = (session_id)
+
+      with connection.cursor() as cursor:
+        cursor.execute(session_query, session_query_vals)
+        result = cursor.fetchone()
+
+        if result == None:
+          return json.dumps({}), 403, {'ContentType':'application/json'}
+        else:
+          query = "update students set recommendations = %s where student_id = %s"
+          vals = (json.dumps(similarity_list), result["student_id"])
+
+          with connection.cursor() as cursor:
+            cursor.execute(query, vals)
+
+          connection.commit()
+
+          return json.dumps(similarity_list), 200, {'ContentType':'application/json'}
+
+    except Exception as e:
+      print("error", e)
+      return json.dumps({}), 400, {'ContentType':'application/json'}
+
+  else:
+    session_id = request.headers.get("session_id")
+
+    try:
+      query = "select recommendations from students where student_id = (select user_id as student_id from sessions where session_id=%s)"
+      vals = (session_id)
 
       with connection.cursor() as cursor:
         cursor.execute(query, vals)
+        result = cursor.fetchone()
 
-      connection.commit()
-
-      return json.dumps(similarity_list), 200, {'ContentType':'application/json'}
-    except Exception as e:
-      print("here")
-      print("e", e)
+        return json.dumps(result), 200, {'ContentType':'application/json'}
+    except:
       return json.dumps({}), 400, {'ContentType':'application/json'}
-
-print("here2")
-
-# if __name__ == '__app__':
-#     app.run(debug=True)
