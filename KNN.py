@@ -69,7 +69,7 @@ class Prediction:
         
         similarity_list = []
         for index, row in self.data.iterrows():
-            similarity_list.append((index, self.calc_similarityscore(index, self.sample)))
+            similarity_list.append((row["Subject Number"], self.calc_similarityscore(index, self.sample)))
             
         return sorted(similarity_list, reverse=True, key=lambda score: score[1])
 

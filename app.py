@@ -22,6 +22,7 @@ connection = pymysql.connect(
 )
 
 data = KNN.curate("./sampledata.csv")
+    
 
 @app.route("/recommendation", methods=["GET", "POST"])
 def postRecommendation():
