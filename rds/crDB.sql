@@ -78,3 +78,9 @@ alter table students add column isNewUser boolean;
 alter table degrees add column name varchar(150);
 
 alter table students add column recommendations mediumtext;
+
+alter table subjects modify num_group_assessments boolean;
+
+alter table subjects rename column content_topics to keywords;
+
+alter table subjects rename column num_group_assessments to isGroupAssignments;
