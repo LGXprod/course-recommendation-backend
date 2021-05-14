@@ -21,7 +21,7 @@ connection = pymysql.connect(
   cursorclass = pymysql.cursors.DictCursor
 )
 
-data = KNN.curate("./sampledata.csv")
+data = KNN.curate("./data-final.csv")
     
 
 @app.route("/recommendation", methods=["GET", "POST"])
@@ -39,7 +39,7 @@ def postRecommendation():
       }
 
       prediction = KNN.Prediction(quizData, data)
-      similarity_list = prediction.get_similaritylist()
+      subject_ids = prediction.K_nearest(10)
 
       session_query = "select user_id as student_id from sessions where session_id = %s"
       session_query_vals = (session_id)
@@ -52,14 +52,14 @@ def postRecommendation():
           return json.dumps({}), 403, {'ContentType':'application/json'}
         else:
           query = "update students set recommendations = %s where student_id = %s"
-          vals = (json.dumps(similarity_list), result["student_id"])
+          vals = (json.dumps(subject_ids), result["student_id"])
 
           with connection.cursor() as cursor:
             cursor.execute(query, vals)
 
           connection.commit()
 
-          return json.dumps(similarity_list), 200, {'ContentType':'application/json'}
+          return json.dumps(subject_ids), 200, {'ContentType':'application/json'}
 
     except Exception as e:
       print("error", e)

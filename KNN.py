@@ -1,6 +1,8 @@
 import pandas as pd
 from scipy import spatial
 
+
+
 def onehot_encode(valueset, valuelist):
     return [1 if value in valuelist else 0 for value in valueset]
 
@@ -43,6 +45,9 @@ def curate(datafilepath):
     return encode_textcolumns(data, 'Assignment Types', 'Keywords')
 
 
+
+
+
 class Prediction:
 
     def __init__(self, sample: dict, data):
@@ -52,9 +57,8 @@ class Prediction:
         self.data = data
 
     
-    def calc_similarityscore(self, subjid, sample):
+    def calc_similarityscore(self, subject, sample):
     
-        subject = self.data.iloc[subjid]
         gsubject = int(subject['Group Assignments'])
         gsample = int(self.sample['Group Assignments'])
         
@@ -62,30 +66,33 @@ class Prediction:
         ascore  = spatial.distance.cosine(subject['onehot_Assignment Types'], self.sample['onehot_Assignment Types'])
         kwscore  = spatial.distance.cosine(subject['onehot_Keywords'], self.sample['onehot_Keywords'])
         
-        return ((0.25)*(1-gscore) + (1-ascore) + 2*(1-kwscore))/(3.2)
+        return ((0.01)*(1-gscore) + (0.1)*(1-ascore) + (1-kwscore))/(1.11)
 
     
     def get_similaritylist(self):
         
         similarity_list = []
         for index, row in self.data.iterrows():
-            similarity_list.append((row["Subject Number"], self.calc_similarityscore(index, self.sample)))
+            similarity_list.append((index, self.calc_similarityscore(row, self.sample)))
             
         return sorted(similarity_list, reverse=True, key=lambda score: score[1])
+
+    def K_nearest(self, k):
+        similaritylist = self.get_similaritylist()
+        return [(str(self.data['Subject Number'][similaritylist[i][0]]), float(round(similaritylist[i][1], 6))) for i in range(0, k)]
 
 
 
 # EXAMPLE USAGE BELOW:
-# DATAPATH = 'sampledata.csv'
+# DATAPATH = 'data-final.csv'
 
 # def testing():
 
 #     data = curate(DATAPATH)
-#     # print("d", data)
 #     sample = {'Group Assignments': 0, 'Assignment Types': ['Quiz/test'], 'Keywords':['LTE', 'Prototyping']}
     
 #     prediction = Prediction(sample, data)
-#     similarity_list = prediction.get_similaritylist()
-#     print(similarity_list)
+#     k_nearest = prediction.K_nearest(10)
+#     print(k_nearest)
 
 # testing()
