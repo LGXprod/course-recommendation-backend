@@ -84,7 +84,7 @@ class Prediction:
 
 
 # EXAMPLE USAGE BELOW:
-DATAPATH = '/home/atabal/course-recommendation-backend/KNN-prototype/data-final.csv'
+DATAPATH = 'data-final.csv'
 
 def testing():
 
