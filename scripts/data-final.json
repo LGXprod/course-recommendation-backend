@@ -1,0 +1,1217 @@
+[
+ {
+   "Index": 0,
+   "Subject Number": 42890,
+   "Subject Name": "4G/5G Mobile Technologies",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Examination,Presentation",
+   "Keywords": "LTE,5G,4G,Mobile Networks,Mobile Technologies  ",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/42890.html"
+ },
+ {
+   "Index": 1,
+   "Subject Number": 13992,
+   "Subject Name": "Aboriginal Sydney Now",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Essay",
+   "Keywords": "Indigenous Australia,Aboriginal and Torres Strait Islander Communities,Human Rights,Social Justice,Critical Race Theory ",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/013992.html"
+ },
+ {
+   "Index": 2,
+   "Subject Number": 41051,
+   "Subject Name": "Accelerating Your Prototyping and Commercialisation Strategies",
+   "Group Assignments": 0,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Prototyping,Commercialisation,Design Thinking,Scrum",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41051.html"
+ },
+ {
+   "Index": 3,
+   "Subject Number": 48371,
+   "Subject Name": "Advanced Engineering Computing",
+   "Group Assignments": 1,
+   "Assignment Types": "Project",
+   "Keywords": "Numerical Analysis,MATLAB,Algorithms,Linear Equations,Numerical Integration",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48371.html"
+ },
+ {
+   "Index": 4,
+   "Subject Number": 49312,
+   "Subject Name": "Advanced Flow Modelling",
+   "Group Assignments": 1,
+   "Assignment Types": "Project,Report",
+   "Keywords": "Flow Modelling,Computational Fluid Dynamics,Navier Stokes Equations, ",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49312.html"
+ },
+ {
+   "Index": 5,
+   "Subject Number": 48663,
+   "Subject Name": "Advanced Manufacturing",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Laboratory/practical",
+   "Keywords": "Quality Management,Manufacturing,Process Programming,Industrial Robotics,3D Scanning,Additive Manufacturing",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48663.html"
+ },
+ {
+   "Index": 6,
+   "Subject Number": 49274,
+   "Subject Name": "Advanced Robotics",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Presentation,Report,Examination",
+   "Keywords": "Robotics, Mechatronics,Embedded C,Object-Oriented Design,Programming,Sensors,Data Fusion,Actuators",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49274.html"
+ },
+ {
+   "Index": 7,
+   "Subject Number": 49254,
+   "Subject Name": "Advanced Soil Mechanics and Foundation Design",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Case study",
+   "Keywords": "Soil Mechanics,Earthquake Geotechnics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49254.html"
+ },
+ {
+   "Index": 8,
+   "Subject Number": 42991,
+   "Subject Name": "Advanced Water and Wastewater Treatment",
+   "Group Assignments": 0,
+   "Assignment Types": "Report",
+   "Keywords": "Wastewater Treatment,Water Quality,Water Chemistry,Desalination Plant Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/42991.html"
+ },
+ {
+   "Index": 9,
+   "Subject Number": 49049,
+   "Subject Name": "Air and Noise Pollution",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Exercises",
+   "Keywords": "Air Pollution,Noise Pollution,Air Quality,Climate Change",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49049.html"
+ },
+ {
+   "Index": 10,
+   "Subject Number": 49322,
+   "Subject Name": "Airconditioning",
+   "Group Assignments": 0,
+   "Assignment Types": "Laboratory/practical,Examination,Project,Exercises",
+   "Keywords": "Airconditioning,Indoor Environmental Quality,Heating and Cooling Loads,Duct Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49322.html"
+ },
+ {
+   "Index": 11,
+   "Subject Number": 49136,
+   "Subject Name": "Application of Timber in Engineering Structures",
+   "Group Assignments": 1,
+   "Assignment Types": "Exercises,Project,Presentation,",
+   "Keywords": "Timber",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49136.html"
+ },
+ {
+   "Index": 12,
+   "Subject Number": 48024,
+   "Subject Name": "Applications Programming",
+   "Group Assignments": 0,
+   "Assignment Types": "Laboratory/practical,Project,Quiz/test,",
+   "Keywords": "Programming,Debugging,Java,Object-Oriented Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48024.html"
+ },
+ {
+   "Index": 13,
+   "Subject Number": 49118,
+   "Subject Name": "Applied Geotechnics",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises,Project",
+   "Keywords": "Geotechnical Engineering,Soil Mechanics,Retaining Wall Analysis,Tunnelling Design,Rail Track Engineering,Geomechanics,Geotechnics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49118.html"
+ },
+ {
+   "Index": 14,
+   "Subject Number": 36200,
+   "Subject Name": "Arguments, Evidence and Intuition",
+   "Group Assignments": 0,
+   "Assignment Types": "Project,Report,Exercises",
+   "Keywords": "Descriptive Statistics,Arguments and Evidence,Correlation and Causation",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/36200.html"
+ },
+ {
+   "Index": 15,
+   "Subject Number": 42001,
+   "Subject Name": "Bioinformatics",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Presentation,Report",
+   "Keywords": "Human Genome,DNA,RNA,Genomic Data",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/42001.html"
+ },
+ {
+   "Index": 16,
+   "Subject Number": 49261,
+   "Subject Name": "Biomedical Instrumentation",
+   "Group Assignments": 1,
+   "Assignment Types": "Literature review,Project",
+   "Keywords": "Nervous System,Sirculatory System,Electrophysiological Instrumentation and Devices,Electromyography,Electroencephalograms,Electrocardiograms,Biomedical Devices",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49261.html"
+ },
+ {
+   "Index": 17,
+   "Subject Number": 42906,
+   "Subject Name": "Biomedical Signal Processing",
+   "Group Assignments": 1,
+   "Assignment Types": "Project,Examination",
+   "Keywords": "Signal Processing,Joint Time-Frequency Analysis,Image Processing,Biomedical Signals/Images,Cardiorespiratory Signals,",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/42906.html"
+ },
+ {
+   "Index": 18,
+   "Subject Number": 49131,
+   "Subject Name": "Bridge Design",
+   "Group Assignments": 0,
+   "Assignment Types": "Report",
+   "Keywords": "Bridges,Bridge Design,Waterway Bridges,Bridge Engineering",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49131.html"
+ },
+ {
+   "Index": 19,
+   "Subject Number": 49255,
+   "Subject Name": "Catchment Modelling",
+   "Group Assignments": 0,
+   "Assignment Types": "Report",
+   "Keywords": "Catchment Modelling,Numerical Solution Techniques",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49255.html"
+ },
+ {
+   "Index": 20,
+   "Subject Number": 65111,
+   "Subject Name": "Chemistry 1",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Quiz/test,Examination",
+   "Keywords": "Periodic Table,Atoms,Elements,Chemical Reactions,Moles,Stoichiometry,Ionic and Covalent Bonds,pH",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/65111.html"
+ },
+ {
+   "Index": 21,
+   "Subject Number": 48530,
+   "Subject Name": "Circuit Analysis and Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Quiz/test",
+   "Keywords": "AC Circuit Analysis,Circuits,Fourier Series,Laplace Transforms,Signals",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48530.html"
+ },
+ {
+   "Index": 22,
+   "Subject Number": 48389,
+   "Subject Name": "Computer Modelling and Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Project,Quiz/test,Exercises",
+   "Keywords": "Structural Loads,Structural Design with Computer Modelling,Analysis of Structural Frameworks",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48389.html"
+ },
+ {
+   "Index": 23,
+   "Subject Number": 49325,
+   "Subject Name": "Computer-aided Mechanical Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Case study,Project",
+   "Keywords": "Computer-aided Modelling for Solid Geometry,Computational Mechanics,Topological Design,Finite Element Method",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49325.html"
+ },
+ {
+   "Index": 24,
+   "Subject Number": 48353,
+   "Subject Name": "Concrete Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Project",
+   "Keywords": "Concrete Design,Concrete Behaviour",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48353.html"
+ },
+ {
+   "Index": 25,
+   "Subject Number": 49151,
+   "Subject Name": "Concrete Technology and Practice",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Report",
+   "Keywords": "Concrete Production,Concrete Properties,Concrete Mix Design,Concrete Transportation,Concrete Curing",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49151.html"
+ },
+ {
+   "Index": 26,
+   "Subject Number": 48340,
+   "Subject Name": "Construction",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Quiz/test",
+   "Keywords": "Earthmoving,Compaction,Construction,Lean Construction Principles and Tools",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48340.html"
+ },
+ {
+   "Index": 27,
+   "Subject Number": 48352,
+   "Subject Name": "Construction Materials",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Report",
+   "Keywords": "Construction Materials,Iron Alloys,Structural Steels,Concrete Making",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48352.html"
+ },
+ {
+   "Index": 28,
+   "Subject Number": 49116,
+   "Subject Name": "Contaminated Site and Waste Remediation",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Report,Presentation",
+   "Keywords": "Waste Remediation,Contaminated Site Investigation,Contaminant Predictive Modelling,Contaminant Transport Processes,Site Contaminant Types",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49116.html"
+ },
+ {
+   "Index": 29,
+   "Subject Number": 48560,
+   "Subject Name": "Control Studio A",
+   "Group Assignments": 1,
+   "Assignment Types": "Presentation,Report,Design/drawing/plan/sketch,Demonstration,Examination",
+   "Keywords": "Lagrange Equations,Ziegler-Nichols Techniques,PID Controllers,Pseudo-Derivative-Feedback (PDF) Controllers,Digital Controller Design,Analog Controller Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48560.html"
+ },
+ {
+   "Index": 30,
+   "Subject Number": 48580,
+   "Subject Name": "Control Studio B",
+   "Group Assignments": 1,
+   "Assignment Types": "Presentation,Demonstration,Project,Exercises",
+   "Keywords": "Linearisation of Multivariable Nonlinear Systems,Modelling and Simulation of Multivariable Systems,Optimal Control and Filtering of Multivariable Systems",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48580.html"
+ },
+ {
+   "Index": 31,
+   "Subject Number": 49329,
+   "Subject Name": "Control of Mechatronic Systems",
+   "Group Assignments": 1,
+   "Assignment Types": "Exercises,Laboratory/practical,Project,Examination",
+   "Keywords": "Mechatronic Systems,Mechatronic Control Systems Design,Control of Mechatronic Systems",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49329.html"
+ },
+ {
+   "Index": 32,
+   "Subject Number": 41900,
+   "Subject Name": "Cryptography",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Quiz/test,Project",
+   "Keywords": "Encryption,Block Ciphers,Public Key Cryptography,Cryptographic Hash Functions,Blockchain,Cryptography",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41900.html"
+ },
+ {
+   "Index": 33,
+   "Subject Number": 48730,
+   "Subject Name": "Cybersecurity",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Examination",
+   "Keywords": "Cybersecurity,Cyber Threat Intelligence,Secure Programming Principles,DoS and DDOS Attacks,Intrusion Detection/Prevention Systems,IoT Security,Firewalls",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48730.html"
+ },
+ {
+   "Index": 34,
+   "Subject Number": 49127,
+   "Subject Name": "Decentralised Environmental Systems",
+   "Group Assignments": 0,
+   "Assignment Types": "Report",
+   "Keywords": "Waste Management, Water Management, Wastewater Treatment Systems, Irrigation, Decentralised Treatment System",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49127.html"
+ },
+ {
+   "Index": 35,
+   "Subject Number": 49928,
+   "Subject Name": "Design Optimisation for Manufacturing",
+   "Group Assignments": 1,
+   "Assignment Types": "Report, Exercises, Project, Examination",
+   "Keywords": "Design Optimisation, Optimisation Techniques, Decision-Making",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49928.html"
+ },
+ {
+   "Index": 36,
+   "Subject Number": 42907,
+   "Subject Name": "Design for Durability",
+   "Group Assignments": 1,
+   "Assignment Types": "Project, Quiz/test",
+   "Keywords": "Concrete Structures, Quality Control, Construction, Durability",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/42907.html"
+ },
+ {
+   "Index": 37,
+   "Subject Number": 48660,
+   "Subject Name": "Dynamics and Control",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test, Laboratory/practical, Report",
+   "Keywords": "System Modelling, Linear Dynamic Systems, Control System, PID Control, Feedback Systems, Control of Steady-State Error",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48660.html"
+ },
+ {
+   "Index": 38,
+   "Subject Number": 41023,
+   "Subject Name": "Early-stage Prototyping",
+   "Group Assignments": 0,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Problem Solving, Design And Decision-Making, Early-Stage Prototyping",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41023.html"
+ },
+ {
+   "Index": 39,
+   "Subject Number": 48571,
+   "Subject Name": "Electrical Machines",
+   "Group Assignments": 1,
+   "Assignment Types": "Report, Project",
+   "Keywords": "Electrical Machine Technology, Matlab, Simulink, Electrical Machines, Power Electronic Circuits, Synchronous Machines And Drives",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48571.html"
+ },
+ {
+   "Index": 40,
+   "Subject Number": 48531,
+   "Subject Name": "Electromechanical Automation",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical, Quiz/test, Report, Examination",
+   "Keywords": "Electric Fields, Magnetic Fields, Electric Circuits, Magnetic Circuits, Electromechanical Automation System",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48531.html"
+ },
+ {
+   "Index": 41,
+   "Subject Number": 48520,
+   "Subject Name": "Electronics and Circuits",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test, Laboratory/practical, Examination",
+   "Keywords": "Circuit Analysis Techniques, System Modelling, Circuit Simulation, Frequency Response, Waveform Generation",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48520.html"
+ },
+ {
+   "Index": 42,
+   "Subject Number": 48434,
+   "Subject Name": "Embedded Software",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical, Quiz/test, Project",
+   "Keywords": "Embedded Systems, Concurrent Software, Embedded C, Embedded Software, Real-Time Operating Systems, Microcontroller Architecture",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48434.html"
+ },
+ {
+   "Index": 43,
+   "Subject Number": 48451,
+   "Subject Name": "Embedded Systems Studio A",
+   "Group Assignments": 0,
+   "Assignment Types": "Project",
+   "Keywords": "Analysis/Design of Computing Node, VHDL Programming, Sequential Design, State Machines, Arithmetic Logic Units",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48451.html"
+ },
+ {
+   "Index": 44,
+   "Subject Number": 48570,
+   "Subject Name": "Embedded Systems Studio B",
+   "Group Assignments": 1,
+   "Assignment Types": "Portfolio, Report",
+   "Keywords": "Data Acquisition, Embedded Software, Cloud Processing, Data Distribution, Embedded Systems Development",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48570.html"
+ },
+ {
+   "Index": 45,
+   "Subject Number": 48221,
+   "Subject Name": "Engineering Computations",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test, Project",
+   "Keywords": "Programming, Numerical Techniques, Visual Basic Programming, Computational Numerical Methods, Operating Systems",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48221.html"
+ },
+ {
+   "Index": 46,
+   "Subject Number": 48850,
+   "Subject Name": "Environmental Planning and Law",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test, Report",
+   "Keywords": "Environmental Law, Environmental Planning",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48850.html"
+ },
+ {
+   "Index": 47,
+   "Subject Number": 49125,
+   "Subject Name": "Environmental Risk Assessment",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises, Report",
+   "Keywords": "Environmental Risk, Risk Assessment, Exposure Assessment, Risk Analysis And Evaluation, Risk Models, Risk Management",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49125.html"
+ },
+ {
+   "Index": 48,
+   "Subject Number": 48350,
+   "Subject Name": "Environmental and Sanitation Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Report, Quiz/test",
+   "Keywords": "Environmental Issues, Environmental Legislation, Water And Wastewater Treatment, Landfill Management, Water Pollution",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48350.html"
+ },
+ {
+   "Index": 49,
+   "Subject Number": 49115,
+   "Subject Name": "Facade Engineering",
+   "Group Assignments": 0,
+   "Assignment Types": "Design/drawing/plan/sketch",
+   "Keywords": "Glass Design,Aluminium Design,Concrete Walls,Facade Design,Windows",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49115.html"
+ },
+ {
+   "Index": 50,
+   "Subject Number": 49047,
+   "Subject Name": "Finite Element Analysis",
+   "Group Assignments": 1,
+   "Assignment Types": "Exercises,Project",
+   "Keywords": "Variational Calculus,Differential Equations,Physics,Mathematics,Ritz Method,Formulas",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49047.html"
+ },
+ {
+   "Index": 51,
+   "Subject Number": 49256,
+   "Subject Name": "Flood Estimation",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Examination",
+   "Keywords": "Flood Flow Estimation,Statistical Techniques,Simulation Techniques,Rainfall Model,Parameter Estimation",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49256.html"
+ },
+ {
+   "Index": 52,
+   "Subject Number": 49117,
+   "Subject Name": "Floodplain Risk Management",
+   "Group Assignments": 1,
+   "Assignment Types": "Report",
+   "Keywords": "Flood Risk Management,Land Use Planning,Modelling Basics,Model Review,Mitigation Work Projects",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49117.html"
+ },
+ {
+   "Index": 53,
+   "Subject Number": 48641,
+   "Subject Name": "Fluid Mechanics",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Project,\tQuiz/test,Examination",
+   "Keywords": "Fluid Properties,Fluid Statics,Conservation Laws,External Flow,Open-Channel Flow,Flow In Pipes",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48641.html"
+ },
+ {
+   "Index": 54,
+   "Subject Number": 48430,
+   "Subject Name": "Fundamentals of C Programming",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Project,Examination",
+   "Keywords": "Programming,Loop Statements,Control Statements,Arrays,Structures,Pointers",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48430.html"
+ },
+ {
+   "Index": 55,
+   "Subject Number": 48521,
+   "Subject Name": "Fundamentals of Electrical Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Quiz/test,Examination",
+   "Keywords": "Electrostatics,Electromagnetics,Magnetic Devices,Electronics Devices,Amplifiers,Electrical Measurements",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48521.html"
+ },
+ {
+   "Index": 56,
+   "Subject Number": 48620,
+   "Subject Name": "Fundamentals of Mechanical Engineering",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Examination",
+   "Keywords": "Force Vectors,Force System,Resultants,Equilibrium,Frames,Machines,Kinematics,Force,Motion,Energy,Linear Impulse,Momentum,Impact",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48620.html"
+ },
+ {
+   "Index": 57,
+   "Subject Number": 49257,
+   "Subject Name": "Geographic Information Systems",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Exercises,Project",
+   "Keywords": "Geographic Information Systems,Geo-Processing,Environmental Engineering,Raster Processing,Vector,Spatial Modelling",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49257.html"
+ },
+ {
+   "Index": 58,
+   "Subject Number": 48360,
+   "Subject Name": "Geotechnical Engineering",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Quiz/test,Project",
+   "Keywords": "Geotechnical Design,Site Investigation,Shallow Foundations,Deep Foundations,Retaining Structures,Slope Stability,Soil Improvement",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48360.html"
+ },
+ {
+   "Index": 59,
+   "Subject Number": 48661,
+   "Subject Name": "Heat Transfer",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Report,Examination",
+   "Keywords": "Heat Transfer,Design,Analysis,Heat Exchangers",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48661.html"
+ },
+ {
+   "Index": 60,
+   "Subject Number": 48362,
+   "Subject Name": "Hydraulics and Hydrology",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Quiz/test",
+   "Keywords": "Meteorology,Climatology,Hydrology,Rainfall Losses,Evaporation,Groundwater,Energy Principles,Momentum",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48362.html"
+ },
+ {
+   "Index": 61,
+   "Subject Number": 41181,
+   "Subject Name": "Information Security and Management",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Examination",
+   "Keywords": "Management of Information Security,Security and Compliance,Risk Analysis and Management,Contingencies,Personnel,Protection,Law,Ethics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41181.html"
+ },
+ {
+   "Index": 62,
+   "Subject Number": 49307,
+   "Subject Name": "Internal Combustion Engines",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Exercises,Examination",
+   "Keywords": "Engine Structure,Power Cycles,Engine,Thermodynamics,Supercharging,Turbocharging,Renewable Fuels",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49307.html"
+ },
+ {
+   "Index": 63,
+   "Subject Number": 48033,
+   "Subject Name": "Internet of Things",
+   "Group Assignments": 1,
+   "Assignment Types": "Literature review,Laboratory/practical, Quiz/test",
+   "Keywords": "Internet of Things,Sensors,Topologies,Actuators,Localisation,Aggregation,Clustering,Routing,RFID Technology,Security,Cloud Computing,Augmented Reality",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48033.html"
+ },
+ {
+   "Index": 64,
+   "Subject Number": 31250,
+   "Subject Name": "Introduction to Data Analytics",
+   "Group Assignments": 0,
+   "Assignment Types": "Report",
+   "Keywords": "Data Mining,Visual Data,Data Pre-Processing,Data Transformation,Classification,Prediction,Clustering,Deployment",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/31250.html"
+ },
+ {
+   "Index": 65,
+   "Subject Number": 41082,
+   "Subject Name": "Introduction to Data Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Report",
+   "Keywords": "Data,Data Engineering,Complex Systems,Systems Modelling,Application Design,Matlab",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41082.html"
+ },
+ {
+   "Index": 66,
+   "Subject Number": 48510,
+   "Subject Name": "Introduction to Electrical and Electronic Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical",
+   "Keywords": "Basic Circuits,Diodes,Electrostatic Field Theory,Capacitance,Magnetic Field Theory,Inductance,Microcontrollers,Digital Logic Circuits,Sensors,Interfacing,AC Power",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48510.html"
+ },
+ {
+   "Index": 67,
+   "Subject Number": 48080,
+   "Subject Name": "Introduction to Innovation",
+   "Group Assignments": 1,
+   "Assignment Types": "Report",
+   "Keywords": "Innovation,Commercialisation,Case Studies",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48080.html"
+ },
+ {
+   "Index": 68,
+   "Subject Number": 48610,
+   "Subject Name": "Introduction to Mechanical and Mechatronic Engineering",
+   "Group Assignments": 0,
+   "Assignment Types": "Design/drawing/plan/sketch,Project",
+   "Keywords": "Engineering Sketching and Drawing,Computer Aided Design (CAD),Mechanical Systems and Components,Motion,Power Transmission,Energy Conversion",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48610.html"
+ },
+ {
+   "Index": 69,
+   "Subject Number": 41025,
+   "Subject Name": "Introduction to Software Development",
+   "Group Assignments": 1,
+   "Assignment Types": "Project,Quiz/test",
+   "Keywords": "Task Management,Software Development,Software Construction,Software Evaluation",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41025.html"
+ },
+ {
+   "Index": 70,
+   "Subject Number": 48441,
+   "Subject Name": "Introductory Digital Systems",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Laboratory/practical",
+   "Keywords": "Digital Combinational,Sequential Circuits,State Diagram,Digital Circuits,Hardware Architectures,Programming,Central Processing Unit,Input-Output,Micro-Controller",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48441.html"
+ },
+ {
+   "Index": 71,
+   "Subject Number": 42903,
+   "Subject Name": "MPLS and Services Architecture",
+   "Group Assignments": 0,
+   "Assignment Types": "Examination,Laboratory/practical",
+   "Keywords": "Multiprotocol Label Switching,Services Architecture,Networks,Routing,Signalling Protocols",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/42903.html"
+ },
+ {
+   "Index": 72,
+   "Subject Number": 48640,
+   "Subject Name": "Machine Dynamics",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises,Examination",
+   "Keywords": "Mechanics,Kinetics,Physics,Forces,Motion",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48640.html"
+ },
+ {
+   "Index": 73,
+   "Subject Number": 48621,
+   "Subject Name": "Manufacturing Engineering",
+   "Group Assignments": 0,
+   "Assignment Types": "Project,Laboratory/practical",
+   "Keywords": "Manufacturing,Casting,Forging,Machining,Fabrication,Metrology",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48621.html"
+ },
+ {
+   "Index": 74,
+   "Subject Number": 49316,
+   "Subject Name": "Materials Handling",
+   "Group Assignments": 0,
+   "Assignment Types": "Case study,Laboratory/practical,Examination",
+   "Keywords": "Materials,Storage,Materials Handling,Conveyor",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49316.html"
+ },
+ {
+   "Index": 75,
+   "Subject Number": 48600,
+   "Subject Name": "Mechanical Design 1",
+   "Group Assignments": 1,
+   "Assignment Types": "Design/drawing/plan/sketch,Project",
+   "Keywords": "CAD,Assembly Models,Mechanical Systems,Motor,Mechatronics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48600.html"
+ },
+ {
+   "Index": 76,
+   "Subject Number": 48650,
+   "Subject Name": "Mechanical Design 2",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Report",
+   "Keywords": "Gears,Frictional Devices,Brakes,Shafts,Mechanisms",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48650.html"
+ },
+ {
+   "Index": 77,
+   "Subject Number": 48601,
+   "Subject Name": "Mechanical Vibration and Measurement",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Project",
+   "Keywords": "Mechanical Systems,Structural Systems,Sensors,Vehicles,Vibrations,Signal Processing",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48601.html"
+ },
+ {
+   "Index": 78,
+   "Subject Number": 48670,
+   "Subject Name": "Mechanical and Mechatronic Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Demonstration,Presentation,Report,Project",
+   "Keywords": "Mechanical Design,Mechatronic Design,Engineering Solutions",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48670.html"
+ },
+ {
+   "Index": 79,
+   "Subject Number": 48331,
+   "Subject Name": "Mechanics of Solids",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Exercises,Project",
+   "Keywords": "Mechanics,Axial Motion,Slopes,Beams",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48331.html"
+ },
+ {
+   "Index": 80,
+   "Subject Number": 48622,
+   "Subject Name": "Mechatronics 1",
+   "Group Assignments": 0,
+   "Assignment Types": "Demonstration,Quiz/test",
+   "Keywords": "Circuits,Input Devices,Output Devices,Central Processing Unit,Low-Level Language Programming",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48622.html"
+ },
+ {
+   "Index": 81,
+   "Subject Number": 48623,
+   "Subject Name": "Mechatronics 2",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Demonstration,Report",
+   "Keywords": "Mechatronics,Sensors,Microprocessor-Based Mechatronic System",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48623.html"
+ },
+ {
+   "Index": 82,
+   "Subject Number": 41092,
+   "Subject Name": "Network Fundamentals",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Project,Quiz/test,Examination",
+   "Keywords": "Networks,Internet,HTTP,Email,IPv4,IPv6",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41092.html"
+ },
+ {
+   "Index": 83,
+   "Subject Number": 49275,
+   "Subject Name": "Neural Networks and Fuzzy Logic",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Project",
+   "Keywords": "Artificial Neural Systems,Fuzzy Logic Theory,Neural Networks,Genetic Algorithm",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49275.html"
+ },
+ {
+   "Index": 84,
+   "Subject Number": 49258,
+   "Subject Name": "Pavement Analysis and Design",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Project,Quiz/test",
+   "Keywords": "Pavements,Drainage,Materials",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49258.html"
+ },
+ {
+   "Index": 85,
+   "Subject Number": 48860,
+   "Subject Name": "Pollution Control and Waste Management",
+   "Group Assignments": 1,
+   "Assignment Types": "Essay,Project,Quiz/test",
+   "Keywords": "Waste Management,Pollution Control,Risk Management,Noise Pollution,Composition",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48860.html"
+ },
+ {
+   "Index": 86,
+   "Subject Number": 48572,
+   "Subject Name": "Power Circuit Theory",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Quiz/test",
+   "Keywords": "AC System,Circuits,Transformers,Conductor,Faults",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48572.html"
+ },
+ {
+   "Index": 87,
+   "Subject Number": 48582,
+   "Subject Name": "Power Systems Studio A",
+   "Group Assignments": 1,
+   "Assignment Types": "Portfolio,Report,Project",
+   "Keywords": "Circuit,Transmission Lines,Machine Model",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48582.html"
+ },
+ {
+   "Index": 88,
+   "Subject Number": 48583,
+   "Subject Name": "Power Systems Studio B",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Exercises,Examination",
+   "Keywords": "Transmission Lines,Transformers,Relays,Torque,Resistance,Voltages",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48583.html"
+ },
+ {
+   "Index": 89,
+   "Subject Number": 49150,
+   "Subject Name": "Prestressed Concrete Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Project,Exercises,Examination",
+   "Keywords": "Prestressed Concrete Design,Beams,Slabs",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49150.html"
+ },
+ {
+   "Index": 90,
+   "Subject Number": 48821,
+   "Subject Name": "Principles of Environmental Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Presentation",
+   "Keywords": "Chemistry,Environmental Systems,Soils,Hydrology,Water Quality,Reactors,Material Balances,Air Resources, Noise Pollution",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48821.html"
+ },
+ {
+   "Index": 91,
+   "Subject Number": 41183,
+   "Subject Name": "Privacy Preserving",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Case study",
+   "Keywords": "Data Privacy,Access Control,Privacy Models,Data Analytics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41183.html"
+ },
+ {
+   "Index": 92,
+   "Subject Number": 49119,
+   "Subject Name": "Problematic Soils and Ground Improvement Techniques",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Case study",
+   "Keywords": "Soil,Improvement Methods,Drains,Bioengineering,Monitoring",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49119.html"
+ },
+ {
+   "Index": 93,
+   "Subject Number": 41039,
+   "Subject Name": "Programming 1",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises,Project,Examination",
+   "Keywords": "Data Types,Decision Programs,Branching Programs,Object Oriented Programming,Lists,Methods",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41039.html"
+ },
+ {
+   "Index": 94,
+   "Subject Number": 48023,
+   "Subject Name": "Programming Fundamentals",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Project",
+   "Keywords": "Object Oriented Programming,Data Flow,Data Structures,Control Flow,Design Notations",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48023.html"
+ },
+ {
+   "Index": 95,
+   "Subject Number": 41012,
+   "Subject Name": "Programming for Mechatronic Systems",
+   "Group Assignments": 0,
+   "Assignment Types": "Laboratory/practical,Project,Quiz/test",
+   "Keywords": "Objected Orientated Paradigm,Memory Handling,Multi-Threading,Libraries,Code Automation,Auto Documentation Generation Tools",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41012.html"
+ },
+ {
+   "Index": 96,
+   "Subject Number": 48450,
+   "Subject Name": "Real-time Operating Systems",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Report,Exam",
+   "Keywords": "Real-time Systems,Porcess and Thread Management,Process Scheduling,Memory Management, Virtual Memory,I/O Device management,Protecting and Security",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48450.html"
+ },
+ {
+   "Index": 97,
+   "Subject Number": 48561,
+   "Subject Name": "Renewable Energy Systems Studio A",
+   "Group Assignments": 1,
+   "Assignment Types": "Journal,Project",
+   "Keywords": "Power electronics application,Electronic Systems Development,DC and AC Drives,Voltage and Current Harmonics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48561.html"
+ },
+ {
+   "Index": 98,
+   "Subject Number": 48550,
+   "Subject Name": "Renewable Energy Systems Studio B",
+   "Group Assignments": 1,
+   "Assignment Types": "Design/drawing/plan/sketch,Project",
+   "Keywords": "Wind Energy,Solar Energy,Fuel Cells,Hydroelectric Power,Tidal Power,Wave Energy,Bio-energy,Geothermal Systems,Energy Storage,System Intergration",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48550.html"
+ },
+ {
+   "Index": 99,
+   "Subject Number": 41009,
+   "Subject Name": "Renewable Energy Technology",
+   "Group Assignments": 1,
+   "Assignment Types": "Report, Quiz/test",
+   "Keywords": "Renewable Energy,Non-Fossil Fuel Sources,Renewable Energy Planning,Technology Advances of Renewable Energy,Social Environmental and Economic Aspects of Renewable Energy",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41009.html"
+ },
+ {
+   "Index": 100,
+   "Subject Number": 49006,
+   "Subject Name": "Risk Management in Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Essay",
+   "Keywords": "Risk Terminologies,Risk Management Processes,Risk Diagnostic and Analysis,Risk Evaluation,Risk Treatment and Reduction,Natural Hazards,Writing Risk Application Papers",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49006.html"
+ },
+ {
+   "Index": 101,
+   "Subject Number": 48370,
+   "Subject Name": "Road and Transport Engineering",
+   "Group Assignments": 0,
+   "Assignment Types": "Report, Quiz/test",
+   "Keywords": "Geometric Design of Urban and Rural Roads,Road Pavement Design,Roads and Maritime Services NSW Standards,Road Projects,Pavement Maintenance and Management",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49106.html"
+ },
+ {
+   "Index": 102,
+   "Subject Number": 49106,
+   "Subject Name": "Road Engineering Practice",
+   "Group Assignments": 0,
+   "Assignment Types": "Project,Case study",
+   "Keywords": "Road and Transport Engineering,Travel Behaviour,Transport and Land-use Systems,Traffic Management Applications,Traffic Flow Theory",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48370.html"
+ },
+ {
+   "Index": 103,
+   "Subject Number": 41013,
+   "Subject Name": "Robotics ",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Report",
+   "Keywords": "Robotic Fundamentals,Motion Planning,Industrial Robotics Safety and Ethics,Kinematics and Dynamics",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41013.html"
+ },
+ {
+   "Index": 104,
+   "Subject Number": 41184,
+   "Subject Name": "Secure Programming and Penetration Testing",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Project,Portfolio,Mid-session examination",
+   "Keywords": "Secure programming,Pentration Testing,Ethical Hacking,Advanced Ethical Hacking,Security Analytics,Revision",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41184.html"
+ },
+ {
+   "Index": 105,
+   "Subject Number": 41014,
+   "Subject Name": "Sensors and Control for Mechatronic Systems",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Project,Examination",
+   "Keywords": "Passive sensors,Active sensors,H-infinity control,Model predictive control,State space,Linear Optimal Control",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41014.html"
+ },
+ {
+   "Index": 106,
+   "Subject Number": 48540,
+   "Subject Name": "Signals and Systems",
+   "Group Assignments": 1,
+   "Assignment Types": "Laboratory/practical,Project,Report",
+   "Keywords": "Communitcation Systems,Control Systems,Signals and Systems,Discrete-Time Systems",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48540.html"
+ },
+ {
+   "Index": 107,
+   "Subject Number": 42913,
+   "Subject Name": "Social and Information Network Analysis",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Project,Examination",
+   "Keywords": "Social Networks,Information Networks,Network Data Visualization,Network Structure Analysis,Network Dynamic Analysis,Network Mining",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/42913.html"
+ },
+ {
+   "Index": 108,
+   "Subject Number": 48433,
+   "Subject Name": "Software Architecture",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Project",
+   "Keywords": "Software Architecture,Software Architecture Quality Attributes,Software Architecture Patterns and Styles,Real Time Systems,Web Based Systems",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48433.html"
+ },
+ {
+   "Index": 109,
+   "Subject Number": 41113,
+   "Subject Name": "Software Development Studio 1",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Reflection,Laboratory/practical",
+   "Keywords": "Agile Software Development,Software Configuration Management,Software Source and Version Control,Reflective Software Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41113.html"
+ },
+ {
+   "Index": 110,
+   "Subject Number": 41114,
+   "Subject Name": "Software Development Studio 2",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Reflection,Laboratory/practical",
+   "Keywords": "Agile Software Development,Software Configuration Management,Software Source and Version Control,Reflective Software Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41114.html"
+ },
+ {
+   "Index": 111,
+   "Subject Number": 48330,
+   "Subject Name": "Soil Behaviour",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Case study,Laboratory/practical",
+   "Keywords": "Soil Engineering,Geological Fundamentals,Geomorphology,Soil Mechanics,Weathering,Rock Mechanics,Shear Strength",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48330.html"
+ },
+ {
+   "Index": 112,
+   "Subject Number": 49133,
+   "Subject Name": "Steel and Composite Design",
+   "Group Assignments": 1,
+   "Assignment Types": "Project",
+   "Keywords": "Steel Building Structures,Design Principles,Steel Welded Connections,Steel Bolted Connections,Steel and Concrete,Composite Beams,Flexure and Deflection",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49133.html"
+ },
+ {
+   "Index": 113,
+   "Subject Number": 48366,
+   "Subject Name": "Steel and Timber Design",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises,Quiz/test,Project",
+   "Keywords": "Civil Engineering,Steel Materials,Axial Compression,Steel Beam Design,Steel Connections,Timber Material Properties,Structural Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48366.html"
+ },
+ {
+   "Index": 114,
+   "Subject Number": 48642,
+   "Subject Name": "Strength of Engineering Materials",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical",
+   "Keywords": "Material Behaviour,Material Properties,Mechanical Engineering,Engineering Design",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48642.html"
+ },
+ {
+   "Index": 115,
+   "Subject Number": 48349,
+   "Subject Name": "Structural Analysis",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises,Report",
+   "Keywords": "Frames and Trusses,Load-Bearing Structures,Moment Distribution Model,Force Model,The Principles of Work and Virtual Work",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48349.html"
+ },
+ {
+   "Index": 116,
+   "Subject Number": 49134,
+   "Subject Name": "Structural Dynamics and Earthquake Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Project",
+   "Keywords": "Structural Dynamics,Single Degree of Freedom (SDOF) Systems,Dynamic Equation of Motion,Damped and Undamped Systems,Vibration Tests,Damping,Harmonic Loading,Dynamic Magnification Factor,Resonant Response,Vibration Isolation,Impulsive Loads,Duhamel Integral,Non-Linear Structural Response,Multi Degree of Freedom (MDOF) Systems,Earthquake Engineering",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48540.html"
+ },
+ {
+   "Index": 117,
+   "Subject Number": 41152,
+   "Subject Name": "Summer Studio C",
+   "Group Assignments": 0,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Design Thinking,Design Portfolio,Systems Thinking",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41152.html"
+ },
+ {
+   "Index": 118,
+   "Subject Number": 41153,
+   "Subject Name": "Summer Studio D",
+   "Group Assignments": 0,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Design Thinking,Design Portfolio,Systems Thinking",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41153.html"
+ },
+ {
+   "Index": 119,
+   "Subject Number": 41154,
+   "Subject Name": "Summer Studio E",
+   "Group Assignments": 0,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Design Thinking,Design Portfolio,Systems Thinking",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/41154.html"
+ },
+ {
+   "Index": 120,
+   "Subject Number": 41155,
+   "Subject Name": "Summer Studio F",
+   "Group Assignments": 0,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Design Thinking,Design Portfolio,Systems Thinking",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/41155.html"
+ },
+ {
+   "Index": 121,
+   "Subject Number": 41182,
+   "Subject Name": "System Security",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Project,Mid-session examination",
+   "Keywords": "System Security,Cyberspace,OS Security,Network Security,Database Security,Identity and Access Management,Implementation Security,Web Security",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41182.html"
+ },
+ {
+   "Index": 122,
+   "Subject Number": 49016,
+   "Subject Name": "Technology and Innovation Management",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Project,Presentation",
+   "Keywords": "Technological Change,Innovation,Design Innovation,Customer Focus",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49016.html"
+ },
+ {
+   "Index": 123,
+   "Subject Number": 49215,
+   "Subject Name": "Telecommunications Industry Management",
+   "Group Assignments": 0,
+   "Assignment Types": "Quiz/test,Project,Examination",
+   "Keywords": "NBN,Network Architecure,ADSL,ADSL2+,VDSL2,G.Fast,Satellite Broadband,Fixed Wireless Broadband,Exchange-based DSL,Capital Expenditure (Capex),Operational Expenditure (Opex),Telecommunication Markets,Accounting,Telecommunication",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49215.html"
+ },
+ {
+   "Index": 124,
+   "Subject Number": 41027,
+   "Subject Name": "The Enterprising Professional",
+   "Group Assignments": 1,
+   "Assignment Types": "Portfolio",
+   "Keywords": "Innovation,Entrepreneurship,Leadership,Communication,Design-Thinking,Career Management,Project Management",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/41027.html"
+ },
+ {
+   "Index": 125,
+   "Subject Number": 48651,
+   "Subject Name": "Thermodynamics",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Examination",
+   "Keywords": "Physical Science,Thermodynamic Properties,Pure Substances,Laws of Thermodynamics,Thermodynamic Power Cycles for Engines and Refrigerators",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48651.html"
+ },
+ {
+   "Index": 126,
+   "Subject Number": 49102,
+   "Subject Name": "Traffic and Transportation",
+   "Group Assignments": 0,
+   "Assignment Types": "Project",
+   "Keywords": "Traffic Engineering,Transport Planning,Traffic Flow Theory,Traffic Studies,Traffic Management,Transport Infrastructure Design and Modelling,Transport Modelling,Signalised Intersection Analysis and Design,Travel Data Collection and Analysis",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49102.html"
+ },
+ {
+   "Index": 127,
+   "Subject Number": 49205,
+   "Subject Name": "Transmission Systems",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Laboratory/practical,Project,Examination",
+   "Keywords": "Information Transmission,Ethernet,ADSL,3G Technologies,Telecommunication Technologies,Telecommunication",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49205.html"
+ },
+ {
+   "Index": 128,
+   "Subject Number": 49328,
+   "Subject Name": "Turbomachines",
+   "Group Assignments": 1,
+   "Assignment Types": "Exercises,Report,Examination",
+   "Keywords": "Turbomachines,Similitude,Pumps,Compressors,Turbines,Fans",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49328.html"
+ },
+ {
+   "Index": 129,
+   "Subject Number": 49107,
+   "Subject Name": "Urban Stormwater Design",
+   "Group Assignments": 0,
+   "Assignment Types": "Report",
+   "Keywords": "Hydraulics,Hydrology,Urban Stormwater Systems,Urban Drainage,Urban Design,Pollution",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49107.html"
+ },
+ {
+   "Index": 130,
+   "Subject Number": 49123,
+   "Subject Name": "Waste and Pollution Management",
+   "Group Assignments": 0,
+   "Assignment Types": "Exercises,Report,Case study",
+   "Keywords": "Waste management,recycling,waste minimalisation,pollution control,clean technology,Waste auditing,institutional barriers,sewerage,sludge,harzardous waste",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49123.html"
+ },
+ {
+   "Index": 131,
+   "Subject Number": 48840,
+   "Subject Name": "Water Supply and Wastewater Engineering",
+   "Group Assignments": 1,
+   "Assignment Types": "Exercises,Laboratory/practical,Report",
+   "Keywords": "Sewerage Systems,Water Supply Systems,Water Cycle Management,Portable Water Treatment,Retriculation Systems,Quality Water Standards,Water Reuse Practices",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48840.html"
+ },
+ {
+   "Index": 132,
+   "Subject Number": 48881,
+   "Subject Name": "Water and Environmental Design",
+   "Group Assignments": 0,
+   "Assignment Types": "Report,Presentation",
+   "Keywords": "Site Conditions,Nutrient Fate and Rransport Processes,Cultural Impact Assessment of Land Development Projects,Land-based Effluent Treatment Sites",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/48881.html"
+ },
+ {
+   "Index": 133,
+   "Subject Number": 49048,
+   "Subject Name": "Wireless Access Network Technologies",
+   "Group Assignments": 1,
+   "Assignment Types": "Quiz/test,Examination,Presentation",
+   "Keywords": "Infrastructure WLAN,ad-hoc WLAN networks,Wireless Networks,WLAN",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49048.html"
+ },
+ {
+   "Index": 134,
+   "Subject Number": 49227,
+   "Subject Name": "Wireless Sensor Networks",
+   "Group Assignments": 1,
+   "Assignment Types": "Report,Demonstration,Quiz/test",
+   "Keywords": "Wireless Sensor Networks, Wireless Sensor Network Theory,Basic Sensor Networks",
+   "Handbook Link": "https://handbook.uts.edu.au/subjects/details/49227.html"
+ }
+]
