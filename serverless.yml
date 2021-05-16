@@ -59,3 +59,10 @@ functions:
           path: session
           method: DELETE
           cors: true
+  getSubjects:
+    handler: lambda/getSubjects.handler
+    events:
+      - http:
+          path: subject
+          method: GET
+          cors: true
