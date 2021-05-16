@@ -22,7 +22,16 @@ connection = pymysql.connect(
 )
 
 data = KNN.curate("./data-final.csv")
-    
+
+def getSubjectDetails(k_nearest_subjects):
+  query = "select subject_code, name from subjects where subject_code in (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+  vals = tuple([subject[0] for subject in k_nearest_subjects])
+
+  with connection.cursor() as cursor:
+    cursor.execute(query, vals)
+    result = cursor.fetchall()
+
+    return result
 
 @app.route("/recommendation", methods=["GET", "POST"])
 def postRecommendation():
@@ -39,7 +48,7 @@ def postRecommendation():
       }
 
       prediction = KNN.Prediction(quizData, data)
-      subject_ids = prediction.K_nearest(10)
+      subjects = getSubjectDetails(prediction.K_nearest(10))
 
       session_query = "select user_id as student_id from sessions where session_id = %s"
       session_query_vals = (session_id)
@@ -52,14 +61,14 @@ def postRecommendation():
           return json.dumps({}), 403, {'ContentType':'application/json'}
         else:
           query = "update students set recommendations = %s where student_id = %s"
-          vals = (json.dumps(subject_ids), result["student_id"])
+          vals = (json.dumps(subjects), result["student_id"])
 
           with connection.cursor() as cursor:
             cursor.execute(query, vals)
 
           connection.commit()
 
-          return json.dumps(subject_ids), 200, {'ContentType':'application/json'}
+          return json.dumps(subjects), 200, {'ContentType':'application/json'}
 
     except Exception as e:
       print("error", e)
