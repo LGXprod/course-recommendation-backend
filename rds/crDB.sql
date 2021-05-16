@@ -84,3 +84,5 @@ alter table subjects modify num_group_assessments boolean;
 alter table subjects rename column content_topics to keywords;
 
 alter table subjects rename column num_group_assessments to isGroupAssignments;
+
+alter table subjects add unique (subject_code);
