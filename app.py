@@ -33,7 +33,17 @@ def getSubjectDetails(k_nearest_subjects):
     cursor.execute(query, vals)
     result = cursor.fetchall()
 
-    return result
+    marked_subjects = set({})
+    subjects = []
+
+    for subject in result:
+      if subject["subject_code"] not in marked_subjects:
+        subjects.append(subject)
+        marked_subjects.add(subject["subject_code"])
+
+    print(subjects)
+
+    return subjects
 
 @app.route("/recommendation", methods=["GET", "POST"])
 def postRecommendation():
