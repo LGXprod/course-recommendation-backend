@@ -7,3 +7,4 @@ six==1.15.0
 pymysql==1.0.2
 flask==2.0.0
 gunicorn
+Flask-Cors==1.1

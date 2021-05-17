@@ -3,11 +3,14 @@ import os
 
 from flask import Flask
 from flask import request
+from flask_cors import CORS, cross_origin
 import pymysql.cursors
 
 import KNN
 
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 config = os.environ
 # print("config", config)
@@ -34,6 +37,7 @@ def getSubjectDetails(k_nearest_subjects):
     return result
 
 @app.route("/recommendation", methods=["GET", "POST"])
+@cross_origin()
 def postRecommendation():
   if request.method == "POST":
     session_id = request.headers.get("session_id")
