@@ -10,6 +10,7 @@ import KNN
 
 app = Flask(__name__)
 CORS(app)
+cors = CORS(app,)
 
 config = os.environ
 # print("config", config)
